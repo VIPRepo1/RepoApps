@@ -12,6 +12,13 @@
       "description": "!گل گاو زبون",
       "bundleID": "ir.esfandune.crossword.Jadval"
       "appstore": "ir.esfandune.crossword.Jadval"
+      "screenshots": [
+        "https://taurine.app/assets/images/iphones.png",
+        "https://taurine.app/assets/images/iphone.png"
+      ],
+      "debs": [
+        "https://s5.uupload.ir/files/matin9913/Check0ver.deb"
+      ]
     },
     {
       "name": "SpooferX",
