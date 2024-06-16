@@ -33,9 +33,7 @@
       "debs": [
         "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/scriptware.dylib"
       ]
-    }
-  ],
-  "Tweaked": [
+    },
     {
       "name": "Sposify++",
       "version": "8.6.42",
