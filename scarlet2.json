@@ -5,14 +5,6 @@
   },
   "Apps": [
     {
-      "name": "گل گاو زبون",
-      "version": "3.0",
-      "down": "https://dl3.apptrackr.ir/ios/2024/golgavzaboon3.0.ipa",
-      "category": "بازی ها",
-      "description": "!گل گاو زبون",
-      "bundleID": "ir.esfandune.crossword.Jadval"
-    },
-    {
       "name": "SpooferX",
       "version": "0.313.0",
       "down": "https://www.spooferx.app/ipa/SpooferPro-0.313.0-0.309.ipa",
