@@ -5,13 +5,13 @@
   },
   "Games": [
     {
-      "name": "iPogo",
-      "version": "0.313.0",
-      "down": "https://ipogo.app/download/ipogo-3.3.7.ipa",
+      "name": "گل گاو زبون",
+      "version": "3.0",
+      "down": "https://dl3.apptrackr.ir/ios/2024/golgavzaboon3.0.ipa",
       "category": "Hacked Games",
-      "description": "With iPogo you get a full set of tools to help you be the best. iPogo is a Simple, Powerful and Intuitive App.",
-      "bundleID": "com.nianticlabs.pokemongo",
-      "appstore": "com.nianticlabs.pokemongo"
+      "description": "گل گاو زبون",
+      "bundleID": "ir.esfandune.crossword.Jadval",
+      "appstore": "ir.esfandune.crossword.Jadval"
     },
     {
       "name": "SpooferX",
