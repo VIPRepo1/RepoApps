@@ -5,14 +5,13 @@
   },
   "Games": [
     {
-      "name": "گل گاو زبون",
+      "name": "gol",
       "version": "3.0",
       "down": "https://dl3.apptrackr.ir/ios/2024/golgavzaboon3.0.ipa",
       "category": "Hacked Games",
-      "description": "گل گاو زبون",
-      "bundleID": "ir.esfandune.crossword.Jadval",
-      "appstore": "ir.esfandune.crossword.Jadval"
-    },
+      "description": "gol",
+      "bundleID": "ir.esfandune.crossword.Jadval"
+     },
     {
       "name": "SpooferX",
       "version": "0.313.0",
