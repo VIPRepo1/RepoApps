@@ -5,11 +5,11 @@
   },
   "Apps": [
     {
-      "name": "gol",
+      "name": "گل گاو زبون",
       "version": "3.0",
       "down": "https://dl3.apptrackr.ir/ios/2024/golgavzaboon3.0.ipa",
       "category": "بازی ها",
-      "description": "gol",
+      "description": "!گل گاو زبون",
       "bundleID": "ir.esfandune.crossword.Jadval"
      },
     {
