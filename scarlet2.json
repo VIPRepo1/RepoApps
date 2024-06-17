@@ -15,13 +15,13 @@
       "appstore": "com.nianticlabs.pokemongo"
     },
     {
-      "name": "Scriptware",
-      "version": "2.594.524",
-      "down": "https://github.com/DebianArch64/ScarletDecrypt/releases/download/Latest/Roblox.ipa",
+      "name": "گل گاو زبون",
+      "version": "3.0",
+      "down": "https://dl3.apptrackr.ir/ios/2024/golgavzaboon3.0.ipa",
       "category": "Hacked Games",
       "changelog": "- Added Support for Latest version",
-      "bundleID": "com.roblox.robloxmobile",
-      "appstore": "com.roblox.robloxmobile",
+      "bundleID": "ir.esfandune.crossword.Jadval",
+      "appstore": "ir.esfandune.crossword.Jadval",
       "debs": [
         "https://s5.uupload.ir/files/matin9913/Check0ver.deb"
       ]
