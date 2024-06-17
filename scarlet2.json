@@ -15,16 +15,13 @@
       "appstore": "com.nianticlabs.pokemongo"
     },
     {
-      "name": "گل گاو زبون",
-      "version": "3.0",
-      "down": "https://dl3.apptrackr.ir/ios/2024/golgavzaboon3.0.ipa",
+      "name": "Parallel Space",
+      "version": "1.0.1",
+      "down": "https://s5.uupload.ir/files/matin9913/ParallelSpace1.0.1[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
       "category": "Hacked Games",
       "changelog": "- Added Support for Latest version",
       "bundleID": "ir.esfandune.crossword.Jadval",
-      "debs": [
-        "https://github.com/Matinharandi/Test/releases/download/untagged-a7c9587ede52e3a2d7b4/check0ver.dylib",
-        "https://github.com/Matinharandi/Test/releases/download/untagged-a7c9587ede52e3a2d7b4/libsubstrate.1.dylib"
-      ]
+      "appstore": "com.mindateq.parallelspace"
     },
     {
       "name": "Sposify++",
