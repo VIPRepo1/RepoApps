@@ -171,6 +171,7 @@
       "dev": "ipafiledl",
       "category": "برنامه های بانکی",
       "changelog": "بانک ملت",
+      "description": "نسخه پایدار و بدون مشکل اپلیکیشن همراه بانک ملت برای آی او اس با جدید ترین نسخه رسمی بانک ملت",
       "bundleID": "com.bpm.hbpin",
       "screenshots": [
         "https://cdn.appleapps.ir/2020/05/at-15896280441461-250x450.jpeg",
