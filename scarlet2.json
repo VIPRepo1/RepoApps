@@ -95,6 +95,21 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/48/4e/1a/484e1a3f-1a8b-fb2e-7487-52d447b9cdaa/pr_source.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/87/f8/d387f85b-7923-3646-9023-04d41e2a0552/pr_source.png/406x228bb.png"
       ]
+    },
+    {
+      "name": "منچرز | Mencherz",
+      "version": "3.8.8",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-15896322621094-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2024/menchking3.8.8.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "منچرز بازی خاطره انگیز منچ، این بار با قابلیت بازی آنلاین یکی از بهترین بازی های ایرانی با داشتن افتخارات و طرفداران بسیار هم چنان جزو بازی های تاپ ایران می باشد",
+      "bundleID": "com.menchking.game",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-15896322461782-250x450.png",
+        "https://cdn.appleapps.ir/2020/05/at-15896322491815-250x450.png",
+        "https://cdn.appleapps.ir/2020/05/at-15896322521398-250x450.png"
+      ]
     }
   ]
 }
