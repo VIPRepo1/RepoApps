@@ -156,8 +156,10 @@
       "version": "1.2.3",
       "icon": "https://app.appleapps.ir/storage/2020/05/at-16865736401056-100x100.jpeg",
       "down": "https://dl3.apptrackr.ir/ios/2024/melatbankv1.2.3.ipa",
+      "dev": "mellat-team",
       "category": "برنامه های بانکی",
       "bundleID": "com.bpm.hbpin",
+      "descriptions": "bank mellat",
       "screenshots": [
         "https://cdn.appleapps.ir/2020/05/at-15896280441461-250x450.jpeg",
         "https://cdn.appleapps.ir/2020/05/at-15896280451357-250x450.jpeg",
