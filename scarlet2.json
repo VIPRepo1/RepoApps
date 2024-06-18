@@ -49,6 +49,22 @@
         "https://cdn.appleapps.ir/2021/04/at-16627233411727.jpg",
         "https://cdn.appleapps.ir/2021/04/at-16627233441511.jpg"
       ]
+    },
+    {
+      "name": "بانکینو",
+      "version": "5.761",
+      "icon": "https://app.appleapps.ir/storage/2022/11/at-16834501601432-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2024/bankino5.761.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "بانکینو یک بانک تمام دیجیتال و متعلق به بانک خاورمیانه است. در بانکینو شما می توانید کلیه خدمات بانکی را به صورت آنلاین و بدون نیاز به حضور در شعبه دریافت کنید",
+      "bundleID": "com.MiddleEastBank.MEBankino",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2022/11/at-16834500671639.jpg",
+        "https://app.appleapps.ir/storage/2022/11/at-16834500681380.jpg",
+        "https://app.appleapps.ir/storage/2022/11/at-16834500691782.jpg",
+        "https://app.appleapps.ir/storage/2022/11/at-16834500701188.jpg"
+      ]
     }
   ]
 }
