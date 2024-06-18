@@ -33,6 +33,22 @@
         "https://app.appleapps.ir/storage/2021/04/at-16862288601741-scaled.jpeg",
         "https://app.appleapps.ir/storage/2021/04/at-16862288571467-scaled.jpeg"
       ]
+    },
+    {
+      "name": "بلوبانک",
+      "version": "3.0.2",
+      "icon": "https://app.appleapps.ir/storage/2021/04/at-16841450241269-100x100.jpg",
+      "down": "https://dl3.apptrackr.ir/ios/2024/blu3.0.2.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "بلو، بانکی تمام دیجیتال و مطابق با سبک جدید زندگی است که همه‌ی عملیات بانکداری روی اپلیکیشن موبایل و کاملا آنلاین انجام می‌شود",
+      "bundleID": "com.samanpr.blu",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2021/04/at-16627233561823.jpg",
+        "https://cdn.appleapps.ir/2021/04/at-16627233511516.jpg",
+        "https://cdn.appleapps.ir/2021/04/at-16627233411727.jpg",
+        "https://cdn.appleapps.ir/2021/04/at-16627233441511.jpg"
+      ]
     }
   ]
 }
