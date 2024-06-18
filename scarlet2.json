@@ -18,6 +18,21 @@
         "https://cdn.appleapps.ir/2020/05/at-15896280451357-250x450.jpeg",
         "https://cdn.appleapps.ir/2020/05/at-15896280461183-250x450.jpeg"
       ]
+    },
+    {
+      "name": "بانک‌یار | همراه بانک پارسیان",
+      "version": "7.6.1670",
+      "icon": "https://app.appleapps.ir/storage/2021/04/at-16862288121988-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2023/bankyar7.6.1670.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "نسخه جدید همراه‌بانک پارسیان با قابلیت‌های ویژه و طراحی جدید",
+      "bundleID": "com.ada.parsian-mb",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2021/04/at-16862288621337-scaled.jpeg",
+        "https://app.appleapps.ir/storage/2021/04/at-16862288601741-scaled.jpeg",
+        "https://app.appleapps.ir/storage/2021/04/at-16862288571467-scaled.jpeg"
+      ]
     }
   ]
 }
