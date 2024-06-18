@@ -80,6 +80,21 @@
         "https://cdn.appleapps.ir/2020/05/at-16030995221651-250x450.jpeg",
         "https://cdn.appleapps.ir/2020/05/at-16030995231683-250x450.jpeg"
       ]
+    },
+    {
+      "name": "Minecraft | ماینکرفت",
+      "version": "1.21.0",
+      "icon": "https://app.appleapps.ir/storage/2024/06/at-17187373621297-100x100.jpg",
+      "down": "https://dl3.apptrackr.ir/ios/2024/Minecraftv1.21.0.ipa",
+      "dev": "ipafiledl",
+      "category": "بازی ها",
+      "description": "بسازید، کشف کنید و زنده بمانید!",
+      "bundleID": "com.mojang.minecraftpe",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/4c/ae/61/4cae61ed-7f91-2ee4-a0b7-f85d57682628/pr_source.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/48/4e/1a/484e1a3f-1a8b-fb2e-7487-52d447b9cdaa/pr_source.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/d3/87/f8/d387f85b-7923-3646-9023-04d41e2a0552/pr_source.png/406x228bb.png"
+      ]
     }
   ]
 }
