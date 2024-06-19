@@ -135,6 +135,22 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/3e/e1/b13ee1da-ccac-75c8-addd-685c9a9a0fd6/ac506a35-0973-4377-a46f-bf89c0af3b2c_appstore_5.8_02-1.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ab/9d/14/ab9d144b-1e6f-75d8-df86-5d5439691ad6/245bae5e-769a-4a66-b283-706315b383fb_appstore_5.8_02-2.png/392x696bb.png"
       ]
+    },
+    {
+      "name": "کیلید بانک آینده | KeyLead",
+      "version": "4.8.13",
+      "icon": "https://app.appleapps.ir/storage/2020/08/at-16879635541091-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2024/keylead4.8.13.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "کیلید بانک آینده برای iOS  پاسخی به نیازهای بانکی شرکت‌های پیشرو",
+      "bundleID": "app.isc.keylead",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2020/08/at-16879636541848.png",
+        "https://app.appleapps.ir/storage/2020/08/at-16879636551261.png",
+        "https://app.appleapps.ir/storage/2020/08/at-16879636491749.png",
+        "https://app.appleapps.ir/storage/2020/08/at-16879636491554.png"
+      ]
     }
   ]
 }
