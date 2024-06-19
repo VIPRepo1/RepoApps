@@ -178,6 +178,21 @@
         "https://app.appleapps.ir/storage/2020/05/at-17103249241242-250x450.jpeg",
         "https://app.appleapps.ir/storage/2020/05/at-17103249251724-250x450.jpeg"
       ]
+    },
+    {
+      "name": "رمز ساز پویا ریما | Rima",
+      "version": "1.7.0.1",
+      "icon": "https://app.appleapps.ir/storage/2020/05/at-16894495501633-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2023/rima1.7.0.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "اپلیکیشن ریما برای آیفون یا همان رمز ساز پویا بانک صادرات برای iOS با جدید ترین نسخه رسمی",
+      "bundleID": "com.isc.rimaotpapp",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-15896286121577-250x450.jpg",
+        "https://cdn.appleapps.ir/2020/05/at-15896286131993-250x450.jpg",
+        "https://cdn.appleapps.ir/2020/05/at-15896286141158-250x450.jpg"
+      ]
     }
   ]
 }
