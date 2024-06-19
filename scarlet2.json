@@ -120,6 +120,21 @@
       "description": "یک برنامه انیمیشن سازی محبوب است که به کاربران اجازه می‌دهد تا انیمیشن‌های قاب به قاب (فریم به فریم) با استفاده از ابزارهای نقاشی و طراحی شهودی ایجاد کنند.",
       "bundleID": "com.vblast.flipaclip",
       "appstore": "com.vblast.flipaclip"
+    },
+    {
+      "name": "Captions++ | نسخه آنلاک کپشن",
+      "version": "11.41.0",
+      "icon": "https://app.appleapps.ir/storage/2024/05/at-17158490701512-100x100.jpg",
+      "down": "https://dl3.apptrackr.ir/ios/2024/Captions11.41.0.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "هر ویدیویی دوست دارید با هر زبانی به اپلیکیشن محبوب و کاربردی Caption بدهید تا با سرعت بالا به کمک هوش مصنوعی متن و صحبت ویدیو رو به شکل کپشن روی ویدیو قرار دهد .  حتی قابلیت ادیت متن و گرافیک متن هم دارید .",
+      "bundleID": "boomer.Smart-Video",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/f0/a6/eb/f0a6ebcc-0764-2a69-1c52-9e3758a10bb6/8ac31e70-f601-4550-aff9-e02533793b94_appstore_5.8_02.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/b1/3e/e1/b13ee1da-ccac-75c8-addd-685c9a9a0fd6/ac506a35-0973-4377-a46f-bf89c0af3b2c_appstore_5.8_02-1.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/ab/9d/14/ab9d144b-1e6f-75d8-df86-5d5439691ad6/245bae5e-769a-4a66-b283-706315b383fb_appstore_5.8_02-2.png/392x696bb.png"
+      ]
     }
   ]
 }
