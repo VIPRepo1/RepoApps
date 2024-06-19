@@ -193,6 +193,52 @@
         "https://cdn.appleapps.ir/2020/05/at-15896286131993-250x450.jpg",
         "https://cdn.appleapps.ir/2020/05/at-15896286141158-250x450.jpg"
       ]
+    },
+    {
+      "name": "موبایل بانک رفاه",
+      "version": "2.1.5",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-15896314141558-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2023/mbankrefa2.1.5.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "جدید ترین نسخه موبایل بانک رفاه برای آی او اس جهت نصب مستقیم",
+      "bundleID": "com.pooyabyte.mobile.ios.MBanking",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-16078530481463-250x450.jpeg",
+        "https://cdn.appleapps.ir/2020/05/at-16078530411853-250x450.jpeg",
+        "https://cdn.appleapps.ir/2020/05/at-16078530371090-250x450.jpeg"
+      ]
+    },
+    {
+      "name": "همراه‌ بانک مهر ایران | Mehr Mobile Banking",
+      "version": "7.6.1740",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-16468922251987-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2023/mehr7.6.1740.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "جدید ترین نسخه همراه بانک مهر ایران برای آیفون",
+      "bundleID": "com.ada.mehrmb.appstore",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2020/05/at-16914160641291-250x450.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-16914160651544-250x450.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-16914160661458-250x450.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-16914160731350-250x450.jpeg"
+      ]
+    },
+    {
+      "name": "صاپ | بانک صادرات",
+      "version": "2.09.03",
+      "icon": "https://app.appleapps.ir/storage/2020/05/at-16986552901659-100x100.jpeg",
+      "down": "https://dl3.apptrackr.ir/ios/2023/sapp2.09.03.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "بانک صادرات ايران به‌ منظور رفاه حال بيشتر مشتريان خود اقدام به تولید و معرفی نرم‌افزار موبايلي موسوم به «صاپ» برای ارائه خدمات پرکاربرد مبتني‌ بر کارت نموده است",
+      "bundleID": "com.Saderat.Sapp",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2020/05/at-16986553201601.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-16986553201506.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-16986553191477.jpeg"
+      ]
     }
   ]
 }
