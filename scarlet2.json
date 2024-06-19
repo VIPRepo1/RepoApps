@@ -164,6 +164,20 @@
       "screenshots": [
         "https://cdn.appleapps.ir/2020/08/at-15971006161033-250x450.png"
       ]
+    },
+    {
+      "name": "همپا | همراه بانک پست بانک",
+      "version": "2.13.27",
+      "icon": "https://app.appleapps.ir/storage/2020/05/at-16905334141911-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2024/hampa2.13.27.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "یکی از خدمات اینترنتی پست بانک ایران می باشد که عموم مشتریان این بانک می توانند از خدمات آن استفاده کنند. این برنامه یکی از برنامه های کاربردی با محیطی ساده و آسان می باشد که دارای قابلیت های بسیار زیادی می باشد و شما می توانید با استفاده از یک درخواست ساده، اقدام به دریافت کد کاربری و رمز ورود کنید",
+      "bundleID": "com.tosan.dara.dev.postbank",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2020/05/at-17103249241242-250x450.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-17103249251724-250x450.jpeg"
+      ]
     }
   ]
 }
