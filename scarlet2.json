@@ -151,6 +151,19 @@
         "https://app.appleapps.ir/storage/2020/08/at-16879636491749.png",
         "https://app.appleapps.ir/storage/2020/08/at-16879636491554.png"
       ]
+    },
+    {
+      "name": "همراه بانک سپه",
+      "version": "10.0.2",
+      "icon": "https://cdn.appleapps.ir/2020/08/at-15971008741714-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2022/SepahMBNew-10.0.2-appleapps.ir.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "در این نسخه جدید از همراه بانک سپه برای آی او اس ،‌ طبق گفته بانک : تمامی بانک های اقدامی با سپه به این نسخه اضافه شده و قابل استفاده می باشد",
+      "bundleID": "com.tonytek.sepah.MBank",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/08/at-15971006161033-250x450.png"
+      ]
     }
   ]
 }
