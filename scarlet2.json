@@ -239,6 +239,21 @@
         "https://app.appleapps.ir/storage/2020/05/at-16986553201506.jpeg",
         "https://app.appleapps.ir/storage/2020/05/at-16986553191477.jpeg"
       ]
+    },
+    {
+      "name": "همراه بانک رسالت",
+      "version": "11.0.1",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-15896278071396-100x100.jpg",
+      "down": "https://dl3.apptrackr.ir/ios/2023/Resalat11.0.1.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "اپلیکیشن همراه بانک رسالت برای iOS آیفون",
+      "bundleID": "com.dt.res.MB",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-15896278061209-250x450.jpg",
+        "https://cdn.appleapps.ir/2020/05/at-15896278051978-250x450.jpg",
+        "https://cdn.appleapps.ir/2020/05/at-15896278041630-250x450.jpg"
+      ]
     }
   ]
 }
