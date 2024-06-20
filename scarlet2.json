@@ -254,6 +254,36 @@
         "https://cdn.appleapps.ir/2020/05/at-15896278051978-250x450.jpg",
         "https://cdn.appleapps.ir/2020/05/at-15896278041630-250x450.jpg"
       ]
+    },
+    {
+      "name": "ویپاد | WePod ترابانک پاسارگاد",
+      "version": "5.12.4",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-15901104231077-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2024/wepod5.12.4.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "اپلیکیشن ویپاد یک بانک تمام دیجیتال است که تحت پشتیبانی بانک پاسارگاد خدمت‌رسانی می‌کند",
+      "bundleID": "com.dt.wepod",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-16774772381376-250x450.jpeg",
+        "https://cdn.appleapps.ir/2020/05/at-16774772391260-250x450.jpeg",
+        "https://cdn.appleapps.ir/2020/05/at-16774772401475-250x450.jpeg"
+      ]
+    },
+    {
+      "name": "همراه بانک تجارت |‌ Tejarat Mobile Bank",
+      "version": "3.7.7",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-16300879441017-100x100.png",
+      "down": "https://api.seebaro.ir/media/signed-ipas/46e55b57-660f-403e-9b7a-a0a3ba1a5b5d.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "جدید ترین نسخه رسمی همراه بانک تجارت برای iOS ",
+      "bundleID": "com.ady.tejarat",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-16300879881000.jpeg",
+        "https://cdn.appleapps.ir/2020/05/at-16300879931476.jpeg",
+        "https://cdn.appleapps.ir/2020/05/at-16300879981124.jpeg"
+      ]
     }
   ]
 }
