@@ -284,6 +284,95 @@
         "https://cdn.appleapps.ir/2020/05/at-16300879931476.jpeg",
         "https://cdn.appleapps.ir/2020/05/at-16300879981124.jpeg"
       ]
+    },
+    {
+      "name": "همراز ‌بانک تجارت | TejaratOTP",
+      "version": "1.9.2",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-16300866411118-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2023/hamraz1.9.2.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "با اپلیکیشن همراز بانک تجارت می توانید از خدمات رمز پویا حساب های بانک تجارت بهره مند شوید",
+      "bundleID": "ali.polamgh.Tejarat-Bank",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-16300873321916-250x450.jpg",
+        "https://cdn.appleapps.ir/2020/05/at-16300873241321-250x450.jpg",
+        "https://cdn.appleapps.ir/2020/05/at-16300873261910-250x450.jpg",
+        "https://cdn.appleapps.ir/2020/05/at-16300873291719-250x450.jpg"
+      ]
+    },
+    {
+      "name": "همراه بانک ملل",
+      "version": "6.32.5",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-16520923171597-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2022/MobileBanking.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "جدید ترین نسخه همراه بانک ملل برای آی او اس به صورت رسمی از سمت بانک ملل",
+      "bundleID": "com.melal.mobilebanking",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-16520924591071-250x450.png",
+        "https://cdn.appleapps.ir/2020/05/at-16520924621464-250x450.png",
+        "https://cdn.appleapps.ir/2020/05/at-16520924661284-250x450.png"
+      ]
+    },
+    {
+      "name": "همراه بانک نوران",
+      "version": "8.3",
+      "icon": "https://app.appleapps.ir/storage/2020/09/at-16951610431127-100x100.jpeg",
+      "down": "https://api.seebaro.ir/media/signed-ipas/ccf1c2e5-d787-42db-936f-fae048f791db.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": " اپلیکیشن همراه بانک نور برای iOS آیفون",
+      "bundleID": "com.isc.noorBankb",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2020/09/at-16951612801915-250x450.jpeg",
+        "https://app.appleapps.ir/storage/2020/09/at-16951612851415-250x450.jpeg",
+        "https://app.appleapps.ir/storage/2020/09/at-16951612781547-250x450.jpeg"
+      ]
+    },
+    {
+      "name": "همراه بانک پاسارگاد",
+      "version": "12.0.1",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-15899142561296-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2023/pasargad-v12.0.1.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "اپلیکیشن همراه بانک پاسارگاد برای آیفون با جدید ترین نسخه رسمی بانک پاسارگاد",
+      "bundleID": "com.dt.psgd.MB2",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-15896286171291.png"
+      ]
+    },
+    {
+      "name": "تک بانک - همراه بانک سرمایه",
+      "version": "2.13.26",
+      "icon": "https://app.appleapps.ir/storage/2020/05/at-17089597741209-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2024/takbank2.13.26.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "با همراه بانک سرمایه در هر ساعت از شبانه روز امور بانکی تان را به سادگی انجام دهید",
+      "bundleID": "com.tosan.dara.dev.sarmayeh",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2020/05/at-17089598281027.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-17089598241326.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-17089598251972.jpeg"
+      ]
+    },
+    {
+      "name": "پارسیان من (همراه بانک پارسیان) | iparsian",
+      "version": "8.8.3",
+      "icon": "https://app.appleapps.ir/storage/2020/05/at-16852131461426-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2024/myparsian8.8.3.ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه های بانکی",
+      "description": "جدید ترین نسخه همراه بانک پارسیان برای آیفون",
+      "bundleID": "com.caspain.parsianAppMobile",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2020/05/at-16852130081338.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-16852130091900.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-16852130121459.jpeg"
+      ]
     }
   ]
 }
