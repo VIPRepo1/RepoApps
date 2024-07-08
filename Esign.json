@@ -33,6 +33,21 @@
             "isLanZouCloud": 0,
             "size": 7206362,
             "type": 1
-        }
+        },
+        {
+            "name": "همراه بانک ملت",
+            "bundleIdentifier": "com.bpm.hbpin",
+            "developerName": "ipafiledl",
+            "version": "1.2.3",
+            "versionDate": "2024-01-01T00:00:00+00:00",
+            "versionDescription": "نسخه پایدار و بدون مشکل اپلیکیشن همراه بانک ملت برای آی او اس با جدید ترین نسخه رسمی بانک ملت",
+            "downloadURL": "https://dl3.apptrackr.ir/ios/2024/melatbankv1.2.3.ipa",
+            "localizedDescription": "نسخه پایدار و بدون مشکل اپلیکیشن همراه بانک ملت برای آی او اس با جدید ترین نسخه رسمی بانک ملت",
+            "iconURL": "https://app.appleapps.ir/storage/2020/05/at-16865736401056-100x100.jpeg",
+            "tintColor": "018084",
+            "isLanZouCloud": 0,
+            "size": 7206362,
+            "type": 1
+       }
     ]
 }
