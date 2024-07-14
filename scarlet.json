@@ -397,5 +397,38 @@
       "bundleID": "com.gingerlabs.Notability",
       "appstore": "com.gingerlabs.Notability"
     },
+    {
+      "name": "SoccerStars++",
+      "version": "36.0.3",
+      "icon": "https://s13.uupload.ir/files/ipafiledl98/icons/Soccer%20Stars_%20Football%20Games-iOS-512x512.png",
+      "down": "https://s13.uupload.ir/files/ipafiledl98/SoccerStars36.0.3[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "بازی ها",
+      "description": "ورژن هک شده بازی ستارگان فوتبال با خط نشانه گیری بلند",
+      "bundleID": "com.miniclip.soccerstars",
+      "appstore": "com.miniclip.soccerstars"
+    },
+    {
+      "name": "UniDream AI++ | نسخه آنلاک شده",
+      "version": "6.0.1",
+      "icon": "https://s13.uupload.ir/files/ipafiledl98/icons/Soccer%20Stars_%20Football%20Games-iOS-512x512(2).png",
+      "down": "https://s13.uupload.ir/files/ipafiledl98/UniDream6.0.1[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "عکس های خود را آپلود کنید، آواتارهای تولید شده توسط هنر هوش مصنوعی خود را به صورت رایگان ایجاد کنید. UniDream یک تولید کننده هنر هوش مصنوعی است که متنی را برای هنر، ایجاد کننده آواتار نمایه هوش مصنوعی و تصاویر یا ویدیوهای متحرک ارائه می دهد. ی، یک سبک هنری را انتخاب کنید و ببینید Uni Dream ایده شما را به زندگی تبدیل می کند و در چند ثانیه هنر تولید می کند.",
+      "bundleID": "com.thirteenleafclover.art.generator",
+      "appstore": "com.thirteenleafclover.art.generator"
+    },
+    {
+      "name": "Documents ++ | فایل منیجر داکیومنت آنلاک شده",
+      "version": "8.12.2",
+      "icon": "https://s13.uupload.ir/files/ipafiledl98/icons/Documents_%20File%20Manager%20_%20Docs-iOS-512x512.png",
+      "down": "https://s27.uupload.ir/files/ipafiledl98/Documents8.12.2[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "نسخه انلاک شده فایل منیجر داکیومنت با قابلیت های پریمیوم و بدون تبلیغات مزاحم",
+      "bundleID": "com.readdle.ReaddleDocsIPad",
+      "appstore": "com.readdle.ReaddleDocsIPad"
+    },
   ]
 }
