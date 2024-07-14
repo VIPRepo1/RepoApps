@@ -374,6 +374,17 @@
         "https://app.appleapps.ir/storage/2020/05/at-16852130101559.jpeg",
         "https://app.appleapps.ir/storage/2020/05/at-16852130091900.jpeg"
       ]
-    }
+    },
+    {
+      "name": "Inshot ++ | اینشات آنلاک شده",
+      "version": "1.79.0",
+      "icon": "https://s13.uupload.ir/files/ipafiledl98/InShot%20-%20Video%20Editor-iOS-512x512.png",
+      "down": "https://s13.uupload.ir/files/ipafiledl98/InShot1.79.0[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "نسخه آنلاک شده اینشات بهترین برنامه ویرایش ویدیو و ابزار ادمین پیج ها",
+      "bundleID": "com.camerasideas.InstaShot",
+      "appstore": "com.camerasideas.InstaShot"
+    },
   ]
 }
