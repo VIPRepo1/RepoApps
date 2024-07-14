@@ -386,5 +386,16 @@
       "bundleID": "com.camerasideas.InstaShot",
       "appstore": "com.camerasideas.InstaShot"
     },
+    {
+      "name": "Notability++ | نسخه آنلاک شده",
+      "version": "14.9.1",
+      "icon": "https://s13.uupload.ir/files/ipafiledl98/Notability_%20Notes,%20PDF-iOS-512x512.png",
+      "down": "https://s13.uupload.ir/files/ipafiledl98/Notability14.9.1[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "یکی از قدرتمند ترین برنامه های نوت برداری با قابلیت باز کردن پی دی اف ،و انواع فرمت های داکیومنتی که با راحتی می توانید هر آنچه می خواهید را یادداشت کرده ، نوت بردارید ، نقاشی کنید ، بکشید ، ضبط کنید ، و ....",
+      "bundleID": "com.gingerlabs.Notability",
+      "appstore": "com.gingerlabs.Notability"
+    },
   ]
 }
