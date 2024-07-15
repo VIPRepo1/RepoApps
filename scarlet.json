@@ -456,5 +456,45 @@
         "https://s31.uupload.ir/files/ipafiledl98/icons/at-16924605501598.jpg"
       ]
     },
+    {
+      "name": "HUngtyshark++",
+      "version": "5.9.1",
+      "down": "https://s27.uupload.ir/files/ipafiledl98/HungrySharkW5.9.1[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "بازی ها",
+      "description": "نسخه هک بازی کوسه گرسنه",
+      "bundleID": "com.ubisoft.hungrysharkworld",
+      "appstore": "com.ubisoft.hungrysharkworld"
+    },
+    {
+      "name": "Nicegram++ | نسخه آنلاک شده",
+      "version": "1.6.5",
+      "down": "https://s27.uupload.ir/files/ipafiledl98/Nicegram1.6.5[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "نسخه توییک شده پریمیوم به ارزش خرید درون برنامه 4.99$ به صورت رایگان",
+      "bundleID": "app.nicegram",
+      "appstore": "app.nicegram"
+    },
+    {
+      "name": "Genie++ | نسخه آنلاک ChatGPT",
+      "version": "6.4.2",
+      "down": "https://s27.uupload.ir/files/ipafiledl98/Genie6.4.2[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "اپلیکیشن Chatbot AI Assistant - Genie یکی از خفن ترین و حرفه ای ترین پلتفرم های چت جی بی تی بدون نیاز به ۶ میلیون تومان (‌۱۰۰ دلار ) هزینه  !",
+      "bundleID": "co.appnation.geniechat",
+      "appstore": "co.appnation.geniechat"
+    },
+    {
+      "name": "Widgy Widget++",
+      "version": "3.4.1",
+      "down": "https://s27.uupload.ir/files/ipafiledl98/Widgy3.4.1[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "برنامه ساخت و ویرایش ویجت نسخه هک شده",
+      "bundleID": "com.woodsign.Widgy",
+      "appstore": "com.woodsign.Widgy"
+    },
   ]
 }
