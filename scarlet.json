@@ -496,5 +496,35 @@
       "bundleID": "com.woodsign.Widgy",
       "appstore": "com.woodsign.Widgy"
     },
+    {
+      "name": "X++| ایکس پیشرفته",
+      "version": "10.49",
+      "down": "https://s27.uupload.ir/files/ipafiledl98/XBh10.49[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "نسخه هک شده و پیشرفته اپلیکیشن X",
+      "bundleID": "com.atebits.Tweetie2",
+      "appstore": "com.atebits.Tweetie2"
+    },
+    {
+      "name": "phocus++",
+      "version": "2.3.8",
+      "down": "https://s27.uupload.ir/files/ipafiledl98/Phocus2.3.8[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "نسخه پریموم برنامه ویرایش پس زمینه تصاویر",
+      "bundleID": "com.ahmetserdarkaradeniz.Phocus",
+      "appstore": "com.ahmetserdarkaradeniz.Phocus"
+    },
+    {
+      "name": "Agar.io Hack",
+      "version": "2.28.1",
+      "down": "https://s27.uupload.ir/files/ipafiledl98/Agar.io2.28.1[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "نسخه هک شده بازی Agar.io  یکی از سرگرم کننده ترین بازی های شرکت Miniclip ",
+      "bundleID": "com.miniclip.agar.io",
+      "appstore": "com.miniclip.agar.io"
+    }
   ]
 }
