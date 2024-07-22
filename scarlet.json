@@ -556,5 +556,15 @@
       "bundleID": "com.alphaprogression.alphaprogression",
       "appstore": "com.alphaprogression.alphaprogression"
     },
+    {
+      "name": "SNOW - AI Profile++",
+      "version": "13.2.15",
+      "down": "https://s31.uupload.ir/files/ipafiledl98/SNOW13.2.15[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "نسخه خریداری شده برنامه SNOW - AI Profile",
+      "bundleID": "com.campmobile.snow",
+      "appstore": "com.campmobile.snow"
+    },
   ]
 }
