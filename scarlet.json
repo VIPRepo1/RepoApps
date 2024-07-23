@@ -566,5 +566,20 @@
       "bundleID": "com.campmobile.snow",
       "appstore": "com.campmobile.snow"
     },
+    {
+      "name": "والکس | Wallex",
+      "version": "1.0",
+      "icon": "https://s5.uupload.ir/files/ipafiledl98/icons/at-16846738001394-100x100.png",
+      "down": "https://s5.uupload.ir/files/ipafiledl98/Wallex1.0[@𝕚𝕡𝕒𝕗𝕚𝕝𝕖𝕕𝕝].ipa",
+      "dev": "ipafiledl",
+      "category": "برنامه ها",
+      "description": "پلتفرم والکس با پشتیبانی از مهم‌ترین ارزهای دیجیتال بازار کریپتوکارنسی اکنون از بزرگترین پلتفرم‌های معاملاتی ایران است. شما می‌توانید در اپلیکیشن و پلتفرم والکس بیت کوین، اتریوم، بایننس کوین و مهم‌ترین ارزهای دنیای متاورس را با روشی امن و سریع خریداری کنید.",
+      "bundleID": "ir.wallex",
+      "screenshots": [
+        "https://s5.uupload.ir/files/ipafiledl98/icons/at-16846738381704-scaled.jpeg",
+        "https://s5.uupload.ir/files/ipafiledl98/icons/at-16846738421170-scaled.jpeg",
+        "https://s5.uupload.ir/files/ipafiledl98/icons/at-16846738471017-scaled.jpeg"
+      ]
+    },
   ]
 }
