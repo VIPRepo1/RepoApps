@@ -59,5 +59,33 @@
         "https://app.appleapps.ir/storage/2022/05/at-17082737461003-250x450.png"
       ]
     },
+    {
+      "name": "پیام رسان روبیکا | Rubika",
+      "version": "2.5.2.0.1",
+      "icon": "https://app.appleapps.ir/storage/2020/05/at-16941271481992-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2023/rubika2.5.2.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "آپلود و نمايش igtv
+- قابلیت قطره چکان در انتخاب رنگ هنگام ایجاد استوری
+- ویجت لینک در ایجاد استوری
+- امكان share و ارسال پست و استوری
+- اضافه شدن لیست ایموجی ها در ایجاد استوری
+- نمایش لیست suggested در صفحه feed
+- امكان ایجاد هایلایت در استوری
+- امكان share کردن poll در روبینو
+- امکان share کردن post در روبینو
+- نمايش علامت verify در روبینو
+- نمايش دکمه follow کنار avatar در روبینو
+- امکان سرچ در لیست follower و following
+- امكان ویرایش writing ویجت در ایجاد استوری
+- امكان نمايش پست های ذخیره شده به صورت grid",
+      "bundleID": "com.roobika.xstores",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2020/05/at-16941279121688.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-16941279131232.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-16941279131906.jpeg"
+      ]
+    },
   ]
 }
