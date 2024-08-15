@@ -19,5 +19,28 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/5a/75/755a751e-610f-8dbf-2f95-ec9cb2e46b02/fd28311e-d1eb-4101-a071-b2f3d53661e0_EK2_screenshots_mobile_Launch_2208x1242_04_eng.png/406x228bb.png"
       ]
     },
+    {
+      "name": "همراه بانک سینا | SinaMobileBank",
+      "version": "8.5.0",
+      "icon": "https://app.appleapps.ir/storage/2020/05/at-16933985781447-100x100.jpeg",
+      "down": "https://dl3.apptrackr.ir/ios/2023/banksina8.5.0.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "هم اکنون نسخه جدید و رسمی همراه بانک سینا با رفع مشکل ورود با FaceID برای آی اواس را میتوانید از RepoApps به صورت مستقیم نصب نمایید .
+
+قابلیت های نرم افزار موبایل بانک سینا :
+
+انتقال وجه سپرده به سپرده، سپرده به کارت، کارت به کارت، ساتنا، پایا
+
+ثبت ، انتقال و تایید/ عدم تایید چک های صیادی
+
+استعلام قبض پرداخت قبض خرید شارژ و ....",
+      "bundleID": "ir.hafizco.SinaHamrahBank",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2020/05/at-16933986011032.png",
+        "https://app.appleapps.ir/storage/2020/05/at-16933986021305-scaled.jpeg",
+        "https://app.appleapps.ir/storage/2020/05/at-16933986041295-scaled.jpeg"
+      ]
+    },
   ]
 }
