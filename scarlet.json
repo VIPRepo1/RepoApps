@@ -154,5 +154,20 @@
       "bundleID": "com.chinykian.aslightchanceofsawbladesplus",
       "appstore": "com.chinykian.aslightchanceofsawbladesplus"
     },
+    {
+      "name": "فام | همراه بانک ملل",
+      "version": "1.54.0.1",
+      "icon": "https://cdn.appleapps.ir/2020/06/at-16215084011726-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2024/Fam52.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "اپلیکیشن فام از بانک ملل برای آی او اس هم اکنون به صورت مستقیم و به روش نوین ادهاک از RepoApps قابل نصب مستقیم می باشد اپلیکیشن پرداخت فام در امنیت کامل و تنها با سه کلیک می توانید امور روزمره پرداخت خود را انجام دهید.",
+      "bundleID": "com.melal.famofficial",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/06/at-15924937681638-250x450.jpg",
+        "https://cdn.appleapps.ir/2020/06/at-15924937691441-250x450.jpg",
+        "https://cdn.appleapps.ir/2020/06/at-15924937701838-250x450.jpg"
+      ]
+    },
   ]
 }
