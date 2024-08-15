@@ -44,5 +44,20 @@
       "bundleID": "com.commsource.BeautyPlus",
       "appstore": "com.commsource.BeautyPlus"
     },
+    {
+      "name": "هفـ‌هشتاد (#780*)",
+      "version": "4.1.6",
+      "icon": "https://app.appleapps.ir/storage/2022/05/at-16966877041964-100x100.jpeg",
+      "down": "https://dl3.apptrackr.ir/ios/2024/hafhashtaf4.1.6.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "سریعترین اپلیکیشن در حوزه پرداخت ، خرید شارژ ، بسته اینترنتی ، کارت به کارت در ایران با نصب رایگان سوپر اپلیکیشن هف هشتاد به بیش از ۳۰ سرویس کاربردی دسترسی پیدا کنید و در امنیت کامل تحت نظارت بانک مرکزی و در سریع‌ترین روش ممکن کارت کارت، شارژ و بسته اینترنتی بخرید، هتل، بلیط هواپیما، اتوبوس و قطار رزرو کنید، قبوض‌تون رو پرداخت کنید، عوارض شهرداری و آزادراه‌ها رو بدید و از کلی سرویس دیگر استفاده کنید تا جایزه ۵۰۰ میلیون تومانی باشگاه هف هشتادی‌ها شوید!",
+      "bundleID": "com.imdb.teomanberk.mo7ie",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2022/05/at-17082737421354-250x450.png",
+        "https://app.appleapps.ir/storage/2022/05/at-17082737441298-250x450.png",
+        "https://app.appleapps.ir/storage/2022/05/at-17082737461003-250x450.png"
+      ]
+    },
   ]
 }
