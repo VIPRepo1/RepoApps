@@ -144,5 +144,15 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/77/c5/6e/77c56e4b-28b8-2adb-7f46-75db6c8c5fde/83f471a1-d999-4cb2-a72e-a9d67a153cc3_5.png/406x228bb.png"
       ]
     },
+    {
+      "name": "A Slight Chance of Sawblades+",
+      "version": "1.20.0",
+      "down": "https://dl3.apptrackr.ir/ios/2024/ASlightChanceofSawbladespv1.20.0.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "بازی A Slight Chance of Sawblades+ یک بازی جذاب و چالش‌برانگیز است که در Apple Arcade در دسترس است. بازیکنان باید از میان مراحل پر از موانع عبور کنند و به خصوص اره‌هایی که از آسمان می‌افتند را پشت سر بگذارند. این بازی عناصر مهارت، واکنش سریع و برنامه‌ریزی استراتژیک را ترکیب می‌کند.",
+      "bundleID": "com.chinykian.aslightchanceofsawbladesplus",
+      "appstore": "com.chinykian.aslightchanceofsawbladesplus"
+    },
   ]
 }
