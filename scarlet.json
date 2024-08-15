@@ -104,5 +104,20 @@
       "bundleID": "com.readdle.ReaddleDocsIPad",
       "appstore": "com.readdle.ReaddleDocsIPad"
     },
+    {
+      "name": "VideoShow++ | نسخه آنلاک شده",
+      "version": "5.10.42",
+      "icon": "https://app.appleapps.ir/storage/2024/03/at-17101400991811-100x100.jpg",
+      "down": "https://dl3.apptrackr.ir/ios/2024/VideoShow5.10.42.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "این نسخه بصورت پیش فرض آنلاک شده است ⚠️درصورت نیاز یکبار برنامه ببندید و مجدد باز کنید  نسخه پریمیوم شده برنامه را بدون نیاز به پرداخت سالانه 36$ استفاده کنید. VideoShow یک برنامه جامع ویرایش ویدیویی است که ویژگی های متعددی را ارائه می دهد. این برنامه اجازه می دهد تا ویدیوهای جذاب با استفاده از عکس، موسیقی، متن، افکت ها، برچسب ها، فیلترها، صداهای جانبی و دوبله زنده ایجاد کنید. ویژگی های کلیدی شامل طول بی نهایت ویدیو، یک انتخاب گسترده از موسیقی پس زمینه، سبک ها و فونت های مختلف برای زیرنویس، یک مرکز محتوای گسترده شامل افکت ها، برچسب ها و بیشتر می باشد.",
+      "bundleID": "com.enjoy.VideoShow",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/9d/d1/25/9dd12520-83d8-059e-d960-12b076a37393/fed90759-1213-4eea-964b-153c4f2ca225_01.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/7b/9b/b1/7b9bb191-25d3-8cb7-8059-433ec3e28ddc/d653969e-fc49-4b98-a641-ae9d5bf7994c_02.jpg/392x696bb.jpg",
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/34/b3/55/34b35547-d153-e354-cd1b-1c3d90262ece/3924fc59-f435-4ccf-91db-857484f4b174_03.jpg/392x696bb.jpg"
+      ]
+    },
   ]
 }
