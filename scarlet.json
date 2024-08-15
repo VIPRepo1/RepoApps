@@ -129,5 +129,20 @@
       "bundleID": "org.ppsspp.ppsspp-gold",
       "appstore": "org.ppsspp.ppsspp-gold"
     },
+    {
+      "name": "GTA: San Andreas Definitive بازی جی تی ای سان اندرس ریمستر",
+      "version": "1.86",
+      "icon": "https://app.appleapps.ir/storage/2024/04/at-17135926591396-100x100.jpg",
+      "down": "https://dl3.apptrackr.ir/ios/2024/GTASanAndreasDefinitivev1.86.44544238.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "• امکان وارد کردن چیت کد در منو Accessibility و Enter Cheat Code وجود دارد📲پشتیبانی از دستگاه های دارای چیپست A12 به بالا (iPhone XS)⚠️بازی دارای 6.22GB دیتای نیاز به دانلود است.",
+      "bundleID": "com.rockstargames.gtasa.de",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/f9/a1/97/f9a1972f-f03a-d782-17ec-79faab1b53a5/59523fb5-15bb-4769-8e7b-e4a3212a68c4_1.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/e7/3e/fe/e73efef0-bc8a-429d-5786-70ab374c5017/b2a9e12f-a48e-483b-b732-13a49e5a8e8b_4.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource126/v4/77/c5/6e/77c56e4b-28b8-2adb-7f46-75db6c8c5fde/83f471a1-d999-4cb2-a72e-a9d67a153cc3_5.png/406x228bb.png"
+      ]
+    },
   ]
 }
