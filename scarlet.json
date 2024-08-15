@@ -84,5 +84,15 @@
       "bundleID": "boomer.Smart-Video",
       "appstore": "boomer.Smart-Video"
     },
+    {
+      "name": "Loora++ | نسخه آنلاک شده",
+      "version": "1.60.3",
+      "down": "https://dl3.apptrackr.ir/ios/2024/Loora1.60.3.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "این نسخه بصورت پیش فرض آنلاک شده است فقط وارد حساب کاربری برنامه شوید. این برنامه دارای پشتیبانی از ترجمه زبان فارسی برای بهود و درک و یادگیری بهتر زبان های دیگر است.",
+      "bundleID": "ai.loora.Loora-iOS",
+      "appstore": "ai.loora.Loora-iOS"
+    },
   ]
 }
