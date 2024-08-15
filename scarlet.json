@@ -581,5 +581,20 @@
         "https://s5.uupload.ir/files/ipafiledl98/icons/at-16846738471017-scaled.jpeg"
       ]
     },
+    {
+      "name": "Exploding Kittens® 2",
+      "version": "0.0.10",
+      "icon": "https://app.appleapps.ir/storage/2024/08/at-17236630511520-100x100.jpg",
+      "down": "https://dl3.apptrackr.ir/ios/2024/ExplodingKittens2v0.0.10.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "بازی Exploding Kittens 2 نسخه دوم از مجموعه بازی‌های گربه‌های بمب‌گذاری‌شده است که به‌طور ویژه برای پلتفرم‌های موبایل طراحی شده.",
+      "bundleID": "com.marmalade.explodingkittens",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/03/92/cf0392ae-adb6-8243-2bb6-c5dac4db4cf8/e9b6cea1-89bd-41e1-ad05-4caaf1c3ea0a_EK2_screenshots_mobile_Launch_2208x1242_06_eng.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/f7/18/e7f718fa-c438-3252-4d90-536f892acc40/ee3341e6-20b9-4562-9b7f-34b90ac0b3e7_EK2_screenshots_mobile_Launch_2208x1242_05_eng.png/406x228bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/5a/75/755a751e-610f-8dbf-2f95-ec9cb2e46b02/fd28311e-d1eb-4101-a071-b2f3d53661e0_EK2_screenshots_mobile_Launch_2208x1242_04_eng.png/406x228bb.png"
+      ]
+    },
   ]
 }
