@@ -94,5 +94,16 @@
       "bundleID": "ai.loora.Loora-iOS",
       "appstore": "ai.loora.Loora-iOS"
     },
+    {
+      "name": "Documents ++ | فایل منیجر داکیومنت آنلاک شده",
+      "version": "8.12.5",
+      "down": "https://dl3.apptrackr.ir/ios/2024/Documents8.12.5.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "آپدیت: نسخه انلاک شده با قابلیت های پریمیوم و بدون تبلیغات مزاحم این نسخه امکان دانلود را ندارد
+دقت کنید برای نصب این نسخه باید نسخه اصلی Document رو حذف کرده باشید ( چون باندل ایدی این نسخه یکی هست با نسخه اصلی )",
+      "bundleID": "com.readdle.ReaddleDocsIPad",
+      "appstore": "com.readdle.ReaddleDocsIPad"
+    },
   ]
 }
