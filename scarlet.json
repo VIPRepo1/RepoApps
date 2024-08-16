@@ -336,16 +336,5 @@
       "bundleID": "com.hhp.magicEraser",
       "appstore": "com.hhp.magicEraser"
     },
-    {
-      "name": "Notability++ | نسخه آنلاک شده",
-      "version": "14.9.7",
-      "icon": "https://app.appleapps.ir/storage/2024/01/at-17058440301059-100x100.jpg",
-      "down": "https://dl3.apptrackr.ir/ios/2024/Notability14.9.7.ipa",
-      "dev": "RepoApps",
-      "category": "برنامه ها",
-      "description": "این نسخه بصورت پیش فرض آنلاک شده است\n\nدرصورت فعال نبودن Plus:خرید درون برنامه ای را رایگان انجام دهید و پس از درخواست رمز کنسل کنید.\n\nیکی از قدرتمند ترین برنامه های نوت برداری با قابلیت باز کردن پی دی اف ،و انواع فرمت های داکیومنتی که با راحتی می توانید هر آنچه می خواهید را یادداشت کرده ، نوت بردارید ، نقاشی کنید ، بکشید ، ضبط کنید ، و ....",
-      "bundleID": "com.gingerlabs.Notability",
-      "appstore": "com.gingerlabs.Notability"
-    },
   ]
 }
