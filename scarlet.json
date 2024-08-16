@@ -214,7 +214,6 @@
       "description": "درصورت نصب نشدن نسخه جدید: ‏قبل از نصب ⚠️نسخه جدید, نسخه قبل را پاک کنید.\nبلو، بانکی تمام دیجیتال و مطابق با سبک جدید زندگی است که همه‌ی عملیات بانکداری روی اپلیکیشن موبایل و کاملا آنلاین انجام می‌شود. به زبان ساده، بلو بانکی است که همیشه و همه‌جا همراه شما خواهد بود.",
       "bundleID": "com.samanpr.blu",
       "screenshots": [
-        "https://app.appleapps.ir/template/main/dist/design/icon/profile.svg",
         "https://cdn.appleapps.ir/2021/04/at-16627233521742.jpg",
         "https://cdn.appleapps.ir/2021/04/at-16627233481831.jpg"
       ]
@@ -229,7 +228,6 @@
       "description": "",
       "bundleID": "com.dt.wepod",
       "screenshots": [
-        "https://app.appleapps.ir/template/main/dist/design/icon/profile.svg",
         "https://cdn.appleapps.ir/2020/05/at-16774772391260-250x450.jpeg",
         "https://cdn.appleapps.ir/2020/05/at-16774772401475-250x450.jpeg"
       ]
@@ -259,7 +257,6 @@
       "description": "مهم : مشکل نصب نشدن برطرف شده ! نسخه قبل رو حذف کنید مجدد نصب کنید\n\nدریافت آخرین نسخه برنامه صاپ | همراه بانک صادرات ایران برای iOS به صورت مستقیم از RepoApps\n\nبانک صادرات ايران به‌ منظور رفاه حال بيشتر مشتريان خود اقدام به تولید و معرفی نرم‌افزار موبايلي موسوم به «صاپ» برای ارائه خدمات پرکاربرد مبتني‌ بر کارت نموده است. ",
       "bundleID": "com.Saderat.Sapp",
       "screenshots": [
-        "https://app.appleapps.ir/template/main/dist/design/icon/profile.svg",
         "https://app.appleapps.ir/storage/2020/05/at-16986553191477.jpeg",
         "https://app.appleapps.ir/storage/2020/05/at-16986553201601.jpeg"
       ]
