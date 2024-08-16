@@ -350,5 +350,16 @@
       "bundleID": "com.gingerlabs.Notability",
       "appstore": "com.gingerlabs.Notability"
     },
+    {
+      "name": "Minecraft | ماینکرفت",
+      "version": "1.21.20",
+      "icon": "https://app.appleapps.ir/storage/2024/06/at-17187373621297-100x100.jpg",
+      "down": "https://dl3.apptrackr.ir/ios/2024/Minecraftv1.21.20.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "⚠️نسخه های خارج از اپ استور امکان وارد شدن به حساب ماکروسافت را ندارند.\nماینکرافت Minecraft برای آیفون می توانید هر آنچه دوست دارید را بسازید . به کمک بلوک ها و شکل هایی که در اختیار دارید می توانید طرح های خلاقانه بسازید و استعداد و دقت خود را به چالش بکشید . البته نکته مهم این هست که موقع ساخت باید به مدل چینش و بلوک گذاری دقت کنید و به صورت مهندسی آنهارا قرار بدهید  چون ممکن است پس از ساخت با اشتباه قرار دادن یک بلوک باعث ریزش کل بنایی که ساختین شود",
+      "bundleID": "com.mojang.minecraftpe",
+      "appstore": "com.mojang.minecraftpe"
+    },
   ]
 }
