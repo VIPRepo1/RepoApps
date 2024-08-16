@@ -348,5 +348,15 @@
       "bundleID": "com.mojang.minecraftpe",
       "appstore": "com.mojang.minecraftpe"
     },
+    {
+      "name": "Heroki ™",
+      "version": "1.2",
+      "down": "https://dl3.apptrackr.ir/ios/2024/Herokiv1.2d.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "بازی Heroki یک ماجراجویی هیجان‌انگیز در دنیایی فانتزی است که بازیکنان را به سفری جذاب و دیدنی می‌برد. این بازی توسط استودیوی Picomy ساخته شده و توسط Sega منتشر شده است.",
+      "bundleID": "com.sega.picomy.heroki",
+      "appstore": "com.picomy.heroki"
+    },
   ]
 }
