@@ -169,5 +169,55 @@
         "https://cdn.appleapps.ir/2020/06/at-15924937701838-250x450.jpg"
       ]
     },
+    {
+      "name": "پیام رسان ایتا | eitaa Messenger",
+      "version": "4.1.0",
+      "icon": "https://app.appleapps.ir/storage/2020/05/at-16871008981717-100x100.jpg",
+      "down": "https://dl3.apptrackr.ir/ios/2024/eitaa4.1.0.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "اگر مشکل لود نشدن پیام داشتین میتونید اپلیکیشن ایتا رو حذف کنید و مجدد از RepoApps نصب کنید تا مشکل حل شود\n\nهم اکنون جدید ترین نسخه پیام رسان ایتا برای آیفون را می توانید از RepoApps به صورت مستقیم بر روی آیفون خود نصب نمایید .\n\nپیام‌رسان ایتا برنامه‌ای سریع، سبک و امن است که قابلیت‌های زیادی را در اختیار شما می‌گذارد:\n\nسرعت بالا\nبا این پیام رسان می‌توانید پیام‌ها و فایل‌های خود را در فرمت‌های مختلف با سرعت بالایی برای دیگران ارسال کنید. این نرم افزار سبک بوده و در دستگاه‌های ضعیف نیز عملکرد قابل قبولی دارد.",
+      "bundleID": "org.eitaa.messenger",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-15896282851732-250x450.jpg",
+        "https://cdn.appleapps.ir/2020/05/at-15896282861725-250x450.jpg",
+        "https://cdn.appleapps.ir/2020/05/at-16692705601806-250x450.png"
+      ]
+    },
+    {
+      "name": "VEED++ | زیرنویس و ترجمه خودکار ویدیو",
+      "version": "4.8.0",
+      "down": "https://dl3.apptrackr.ir/ios/2024/VEEDCaptions4.8.0.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "نسخه پریمیوم برنامه به ارزش 35$ را بصورت رایگان استفاده کنید.\n\n✅پشتیبانی از زبان فارسی\n\nCaptions for videos\n\nاضافه کردن زیرنویس‌های جذاب به ویدیوهایتان به تازگی بسیار ساده شده است:\n\n1. ویدیوی خود را وارد یا ضبط کنید\n\n2. به صورت خودکار زیرنویس تولید کنید\n\n3. هر کلمه یا غلط املایی را سریع و آسان برطرف کنید\n\n4. سبک مناسب را انتخاب کنید\n\n5. بوم! زیرنویس‌های زیبا، آماده اشتراک‌گذاری در هر کجا",
+      "bundleID": "io.veed.appstore",
+      "appstore": "io.veed.appstore"
+    },
+    {
+      "name": "Lightroom Photo & Video Editor ++ | لایتروم پریمیوم",
+      "version": "9.5",
+      "down": "https://dl3.apptrackr.ir/ios/2024/com.adobe.lrmobilephone9.5.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "لطفا و خواهشا از پایین صفحه توضیحات فعال سازی ⚠️پریمیوم رو ملاحظه کنید !\n\nنحوه فعال سازی پریمیوم Lightroom Photo & Video Editor :\n\nقبل از اجرای برنامه حتما و پ ان روشن باشه ! دقت کنید نوع V P N به شدت مهم و حساس هست روی این اپلیکیشن ( آیپی بلاک نباشه )\n\nپس از اجرا فقط باید با اکانت گوگل وارد اپ بشید ( ترجیحا با یک گوگل اکانت مجزا وارد بشید )\n\nخرید درون برنامه ای را انجام دهید ( یعنی روی قسمت خرید Premium شما خرید بزنید Purchase بزنید ) و پس از درخواست اپل ایدی کنسل کنید. تا نسخه پریمیوم رایگان فعال شود",
+      "bundleID": "com.adobe.lrmobilephone",
+      "appstore": "com.adobe.lrmobilephone"
+    },
+    {
+      "name": "بلوبانک | blubank",
+      "version": "3.1.0",
+      "icon": "https://app.appleapps.ir/storage/2021/04/at-16841450241269-100x100.jpg",
+      "down": "https://dl3.apptrackr.ir/ios/2024/blu3.1.0.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه های ایرانی",
+      "description": "درصورت نصب نشدن نسخه جدید: ‏قبل از نصب ⚠️نسخه جدید, نسخه قبل را پاک کنید.\nبلو، بانکی تمام دیجیتال و مطابق با سبک جدید زندگی است که همه‌ی عملیات بانکداری روی اپلیکیشن موبایل و کاملا آنلاین انجام می‌شود. به زبان ساده، بلو بانکی است که همیشه و همه‌جا همراه شما خواهد بود.",
+      "bundleID": "com.samanpr.blu",
+      "screenshots": [
+        "https://app.appleapps.ir/template/main/dist/design/icon/profile.svg",
+        "https://cdn.appleapps.ir/2021/04/at-16627233521742.jpg",
+        "https://cdn.appleapps.ir/2021/04/at-16627233481831.jpg"
+      ]
+    },
   ]
 }
