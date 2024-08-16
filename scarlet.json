@@ -20,6 +20,16 @@
       ]
     },
     {
+      "name": "SnapEdit++ | حذف اشیا و بک گراند",
+      "version": "5.3.1",
+      "down": "https://dl3.apptrackr.ir/ios/2024/SnapEdit5.3.1.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "این نسخه بصورت پیش فرض آنلاک شده است. درصورت مشکل اتصال از برنامه تغییر iP استفاده کنید.\nبا این برنامه شما میتوانید به کمک Ai از ابزارهایی مانند: بهبود کیفیت تصاویر , حذف اشیا همچنین جدایی و حذف بک گراند از اجسام و ساخت انیمه از تصاویر خود استفاده کنید.",
+      "bundleID": "com.sfun.snapedit",
+      "appstore": "com.sfun.snapedit"
+    },
+    {
       "name": "همراه بانک سینا | SinaMobileBank",
       "version": "8.5.0",
       "icon": "https://app.appleapps.ir/storage/2020/05/at-16933985781447-100x100.jpeg",
