@@ -798,5 +798,40 @@
         "https://app.appleapps.ir/storage/2020/05/at-16973646891885.jpeg"
       ]
     },
+    {
+      "name": "Grand Theft Auto: San Andreas |جی تی ای سند آندرس",
+      "version": "2.2.14",
+      "down": "https://dl3.apptrackr.ir/ios/2023/GTASAv2.2.141.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "نسخه خریداری شده\nبازی معروف و محبوب جی تی ای San Andreas که ۸ دلار در اپ استور قیمت دارد را هم اکنون رایگان از RepoApps دریافت کنید . ",
+      "bundleID": "com.rockstargames.gta3sa",
+      "appstore": "com.rockstargames.gta3sa"
+    },
+    {
+      "name": "Grand Theft Auto: San Andreas Hacked هک شد جی تی ای سن آندرس",
+      "version": "2.2.0.1",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-15896325231849-100x100.jpg",
+      "down": "https://dl3.apptrackr.ir/ios/2022/cheatGrandTheftAuto_SanAndreasCheats2.2new.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "این نسخه توسط iOSGOD هک شده با قابلیت های زیر\n\nقابلیت های هک Grand Theft Auto: San Andreas Hacked :\n\n-  حالت  God Mode\n-  تیر اسلحه ها تمام نمی شود\n- ماشین ها و اسحله ها در خانه مجدد شارژ می شود\n- استقامت نامحدود",
+      "bundleID": "com.rockstargames.gta3sa2",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-15896325201372-250x297.jpg",
+        "https://cdn.appleapps.ir/2020/05/at-15896325211426-250x297.jpg",
+        "https://cdn.appleapps.ir/2020/05/at-15896325231389-250x297.jpg"
+      ]
+    },
+    {
+      "name": "Company of Heroes | فرماندهی را در جنگ جهانی دوم",
+      "version": "1.3.2",
+      "down": "https://dl3.apptrackr.ir/ios/2022/CompanyofHeroesv1.3.2Resign.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "درصورت درخواست اپل آیدی رد کنید.\nفضای مناسب بازی 6گیگابات پیشنهاد شده.\nحداقل iOS 14.2 و iPhone 6S.\nCompany of Heroes بازی تحسین شده و ماندگار محبوب جنگ جهانی دوم است که با ترکیبی جذاب از مبارزات سریع ، محیط های جنگ پویا و تاکتیک های پیشرفته مبتنی بر جوخه ، استراتژی زمان واقعی خود را بازتعریف کرد.\n\nفرماندهی دو شرکت ترک نظامی سربازان آمریکایی را بر عهده بگیرید و یک مبارزات شدید را در تئاتر عملیاتی اروپا آغاز کنید که با حمله روز D به نرماندی آغاز می شود.\n\nسازگار با iOS و بهینه سازی شده برای iOS ، Company of Heroes دارای یک رابط کاربری بصری برای اجرای سریع تاکتیک های پیشرفته در زمان واقعی در اوج جنگ است.",
+      "bundleID": "com.feralinteractive.companyofheroes-ios",
+      "appstore": "com.feralinteractive.companyofheroes-ios"
+    },
   ]
 }
