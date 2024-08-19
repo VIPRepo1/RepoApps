@@ -1183,5 +1183,15 @@
         "https://app.appleapps.ir/storage/2023/12/at-17017965491192.jpg"
       ]
     },
+    {
+      "name": "WHAT THE CAR?",
+      "version": "4.1.0",
+      "down": "https://dl3.apptrackr.ir/ios/2024/WHATTHECARv4.1.0.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "این یک بازی مسایقه ای معمولی نیست! شما یک ماشین هستید، اما به جای چرخ، پا دارید! با پریدن، پرواز با جت پک، بالا رفتن از ساختمان‌ها، تحویل بسته‌ها و تقریباً هر کاری که از ماشین انتظار ندارید، در صدها مرحله منحصر به فرد تجربه کنید.",
+      "bundleID": "net.triband.what-the-speed",
+      "appstore": "net.triband.what-the-speed"
+    },
   ]
 }
