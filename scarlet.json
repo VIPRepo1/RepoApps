@@ -20,6 +20,27 @@
       ]
     },
     {
+      "name": "Game Room",
+      "version": "1.6.0",
+      "icon": "https://app.appleapps.ir/storage/2024/05/at-17166340561262-100x100.jpg",
+      "down": "https://dl3.apptrackr.ir/ios/2024/GameRoomv1.6.0.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "محبوب ترین بازی های جهان - در محاسبات فضایی جان گرفته اند!\n\nبازی متقابل با Apple Vision Pro، iPhone و iPad!\n\nدوستان خود را دور میز آشپزخانه جمع کنید، به صورت انفرادی بازی کنید یا آنلاین شوید تا با بازیکنانی از سراسر جهان هماهنگ شوید و یکی از این کلاسیک های خانوادگی دوست داشتنی را انتخاب کنید:\n\n- شطرنج: بازی تخته استراتژی پیاده ها و پادشاهان (با دیگران در زمان واقعی یا با مکاتبات نوبتی بر اساس برنامه خود بازی کنید)\n\n- بازی یک نفره: کارت ها را به صورت انبوه مرتب کنید\n\n- قلب ها: یک بازی با ورق ترفند جمع آوری کت و شلوار و تیراندازی به ماه\n\n- قایق بادبانی: تاس بیندازید و امتیازات را در این چرخش شش طرفه در پوکر جمع کنید\n\n- نبرد دریایی: کشتی های دشمن را قبل از غرق کردن کشتی های شما غرق کنید\n\n- چکرز: مهره های حریف خود را با پرش های مورب ضبط کنید\n\n- Flip It: یک بازی استراتژیک در مورد چرخاندن دیسک های حریف به رنگ خود",
+      "bundleID": "com.resolutiongames.vikingghost",
+      "appstore": "com.resolutiongames.vikingghost"
+    },
+    {
+      "name": "Pilgrims| اپل آرکید - مادربزرگ ، راهزن و شیطان",
+      "version": "1.0.10",
+      "down": "https://dl2.apptrackr.ir/user1/ios/2020/Pilgrims_v1.0.10.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "بازی فوق العاده Pilgrims برای آیفون از سری بازی های اپل آرکید هست که بدون نیاز به اشتراک ویژه Apple Arcade به صورت رایگان در RepoApps قرار گرفته است.",
+      "bundleID": "com.amanitadesign.pilgrims.ios",
+      "appstore": "com.amanitadesign.pilgrims.ios"
+    },
+    {
       "name": "Vids++ | ‎ قالب و تمپلیت برای ریلز و تیک تاک",
       "version": "1.73.0",
       "down": "https://dl3.apptrackr.ir/ios/2024/VidsAIPro1.73.0.ipa",
