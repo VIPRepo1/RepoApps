@@ -28,17 +28,11 @@
       "category": "بازی ها",
       "description": "محبوب ترین بازی های جهان - در محاسبات فضایی جان گرفته اند!\n\nبازی متقابل با Apple Vision Pro، iPhone و iPad!\n\nدوستان خود را دور میز آشپزخانه جمع کنید، به صورت انفرادی بازی کنید یا آنلاین شوید تا با بازیکنانی از سراسر جهان هماهنگ شوید و یکی از این کلاسیک های خانوادگی دوست داشتنی را انتخاب کنید:\n\n- شطرنج: بازی تخته استراتژی پیاده ها و پادشاهان (با دیگران در زمان واقعی یا با مکاتبات نوبتی بر اساس برنامه خود بازی کنید)\n\n- بازی یک نفره: کارت ها را به صورت انبوه مرتب کنید\n\n- قلب ها: یک بازی با ورق ترفند جمع آوری کت و شلوار و تیراندازی به ماه\n\n- قایق بادبانی: تاس بیندازید و امتیازات را در این چرخش شش طرفه در پوکر جمع کنید\n\n- نبرد دریایی: کشتی های دشمن را قبل از غرق کردن کشتی های شما غرق کنید\n\n- چکرز: مهره های حریف خود را با پرش های مورب ضبط کنید\n\n- Flip It: یک بازی استراتژیک در مورد چرخاندن دیسک های حریف به رنگ خود",
       "bundleID": "com.resolutiongames.vikingghost",
-      "appstore": "com.resolutiongames.vikingghost"
-    },
-    {
-      "name": "Pilgrims| اپل آرکید - مادربزرگ ، راهزن و شیطان",
-      "version": "1.0.10",
-      "down": "https://dl2.apptrackr.ir/user1/ios/2020/Pilgrims_v1.0.10.ipa",
-      "dev": "RepoApps",
-      "category": "بازی ها",
-      "description": "بازی فوق العاده Pilgrims برای آیفون از سری بازی های اپل آرکید هست که بدون نیاز به اشتراک ویژه Apple Arcade به صورت رایگان در RepoApps قرار گرفته است.",
-      "bundleID": "com.amanitadesign.pilgrims.ios",
-      "appstore": "com.amanitadesign.pilgrims.ios"
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a3/40/5c/a3405c24-cc81-54a4-9744-01cfbd5dd501/937b3c50-6e82-4da3-bd85-d626fceee4cf_DailyChallenges5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/a8/a9/b2/a8a9b2b1-3185-7ed9-badd-a8fc65bde188/c033305d-a034-4ddd-b0a1-f5348bcacd70_Themes5.5.png/392x696bb.png",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/ba/59/9b/ba599b9a-b69e-6cb8-2c1a-f14627b87540/44f825ac-4e54-48bf-a5ea-0529c391ceaa_SeaBattle5.5.png/392x696bb.png"
+      ]
     },
     {
       "name": "Vids++ | ‎ قالب و تمپلیت برای ریلز و تیک تاک",
