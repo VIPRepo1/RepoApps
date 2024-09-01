@@ -20,6 +20,56 @@
       ]
     },
     {
+      "name": "YouCam Makeup: Face Editor++",
+      "version": "6.22.1",
+      "down": "https://s5.uupload.ir/files/ipafiledl98/YouCam%20Makeup++_6.22.1_LeTi.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "نسخه پرمیوم به شکل پیش فرض✅",
+      "bundleID": "com.cyberlink.youcammakeup",
+      "appstore": "com.cyberlink.youcammakeup"
+    },
+    {
+      "name": "Revive: AI Photo Animation++",
+      "version": "3.17.0",
+      "down": "https://s5.uupload.ir/files/ipafiledl98/Revive_3.17.0_TK.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "خرید درون برنامه ای را انجام دهید و پس از درخواست پسورد کنسل کنید.\n\nدرصورت مواجه با صفحه سیاه, از VPN معتبر استفاده کنید.\n\nRevive هر عکس خسته کننده ای را عجیب و سرگرم کننده می کند,",
+      "bundleID": "com.metacortext.Revive",
+      "appstore": "com.metacortext.Revive"
+    },
+    {
+      "name": "Genie - AI Chatbot Assistant++",
+      "version": "7.0.0",
+      "down": "https://s5.uupload.ir/files/ipafiledl98/GenieـProـ7.0.0.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "این نسخه بصورت پیش فرض آنلاک شده است\n\nنکته واجب و مهم وصل شدن چت جی بی تی Genie  :\n\n -  این اپلیکیشن به شدت روی VPN و آیپی کاربر حساس هست و اگر مشکل وصل نشدن وجود داشت یعنی و پ ان شما ایپیش بلاک هست و مشکل داره و باید از یک و پ ان دیگه استفاده کنید .\n\nدرصورت نیاز خرید درون برنامه ای را رایگان انجام دهید و پس از درخواست پسورد اپل ایدی باید کنسل کنید.",
+      "bundleID": "co.appnation.geniechat",
+      "appstore": "co.appnation.geniechat"
+    },
+    {
+      "name": "EPIK++ | ویرایشگر عکس - فیلتر، افکت،",
+      "version": "5.0.10",
+      "down": "https://dl3.apptrackr.ir/ios/2024/EPIK5.0.10.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "این نسخه بصورت پیش فرض آنلاک شده است\n\nلطفا با VPN وارد برنامه شوید\n⚠️ بعضی از امکانات AI در دسترس نیست.\n\nاین برنامه یک ابزار پیشرفته ویرایش عکس است که توسط هوش مصنوعی قدرت می‌گیرد و ابزارهای حرفه‌ای و خلاقانه‌ای را فراهم می‌کند که به کاربران امکان می‌دهد عکس‌ها را به راحتی با وضوح و رزولوشن بالا بهبود دهند. ",
+      "bundleID": "com.snowcorp.epik",
+      "appstore": "com.snowcorp.epik"
+    },
+    {
+      "name": "Dazz Cam++ | فیلترهای عکس و جلوه های ویدیویی ",
+      "version": "2.7.8",
+      "down": "https://dl3.apptrackr.ir/ios/2024/Dazz2.7.8.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "نسخه توییک شده PRO با آنلاک تمامی ویژگیهای خریداری شده برنامه\n\nبرنامه دوربین Dazz از دوربین های فیلمبرداری و عکاسی رترو  قدیمی دهه 80 الهام گرفته شده است.که بر اساس شواهد، 100٪ رنگ، بافت و نویز فیلم را بازیابی میگردد و همچنین اثرات نشت نور جالبی وجود خواهد داشت",
+      "bundleID": "dazz.camera.vintagecamera",
+      "appstore": "dazz.camera.vintagecamera"
+    },
+    {
       "name": "Photo Lab++| ویرایش چهره هنری و قرار دادن تصاویر",
       "version": "3.12.6",
       "down": "https://dl3.apptrackr.ir/ios/2024/PhotoLab3.12.6.ipa",
@@ -664,11 +714,11 @@
     },
     {
       "name": "فام | همراه بانک ملل",
-      "version": "1.54.0.1",
+      "version": "1.56.0",
       "icon": "https://cdn.appleapps.ir/2020/06/at-16215084011726-100x100.png",
-      "down": "https://dl3.apptrackr.ir/ios/2024/Fam52.ipa",
+      "down": "https://dl3.apptrackr.ir/ios/2024/Fam56.ipa",
       "dev": "RepoApps",
-      "category": "برنامه های ایرانی",
+      "category": "برنامه ها",
       "description": "اپلیکیشن فام از بانک ملل برای آی او اس هم اکنون به صورت مستقیم و به روش نوین ادهاک از RepoApps قابل نصب مستقیم می باشد اپلیکیشن پرداخت فام در امنیت کامل و تنها با سه کلیک می توانید امور روزمره پرداخت خود را انجام دهید.",
       "bundleID": "com.melal.famofficial",
       "screenshots": [
