@@ -20,6 +20,35 @@
       ]
     },
     {
+      "name": "Pilgrims| اپل آرکید - مادربزرگ ، راهزن و شیطان",
+      "version": "1.0.10",
+      "down": "https://dl2.apptrackr.ir/user1/ios/2020/Pilgrims_v1.0.10.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "بازی فوق العاده Pilgrims برای آیفون از سری بازی های اپل آرکید هست که بدون نیاز به اشتراک ویژه Apple Arcade به صورت رایگان در RepoApps قرار گرفته است.",
+      "bundleID": "com.amanitadesign.pilgrims.ios",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0f/5d/bc/0f5dbc20-7233-b8fe-ad03-e07506ae329f/pr_source.png/392x696bb.png"
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/d4/67/a8d46763-a580-2d87-b8aa-240d1387c818/pr_source.png/392x696bb.png"
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/87/3c/2b/873c2b80-7404-f1fa-d939-f30cfd41db3c/pr_source.png/392x696bb.png"
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/45/40/1c45403f-47d5-50ac-9ef2-11292cec20f5/pr_source.png/392x696bb.png"
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/80/69/c4/8069c40f-d246-6f55-8aeb-3a3881e72833/pr_source.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/1f/19/ac1f19dd-3bab-8e9f-cdb3-54a6e79e890c/pr_source.png/392x696bb.png"
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3e/3a/de/3e3ade0f-0cb1-70d7-e5cc-d5ee1af8f414/pr_source.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f7/c4/5c/f7c45c6b-5e49-adb6-b8ef-8623b90bcb23/pr_source.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/8d/7d/668d7d4e-2d56-a4b6-d0d4-27e8d1bd2195/pr_source.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/0f/5d/bc/0f5dbc20-7233-b8fe-ad03-e07506ae329f/pr_source.png/392x696bb.png"
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/a8/d4/67/a8d46763-a580-2d87-b8aa-240d1387c818/pr_source.png/392x696bb.png"
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple113/v4/87/3c/2b/873c2b80-7404-f1fa-d939-f30cfd41db3c/pr_source.png/392x696bb.png"
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/1c/45/40/1c45403f-47d5-50ac-9ef2-11292cec20f5/pr_source.png/392x696bb.png"
+        "https://is3-ssl.mzstatic.com/image/thumb/Purple113/v4/80/69/c4/8069c40f-d246-6f55-8aeb-3a3881e72833/pr_source.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/ac/1f/19/ac1f19dd-3bab-8e9f-cdb3-54a6e79e890c/pr_source.png/392x696bb.png"
+        "https://is4-ssl.mzstatic.com/image/thumb/Purple123/v4/3e/3a/de/3e3ade0f-0cb1-70d7-e5cc-d5ee1af8f414/pr_source.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f7/c4/5c/f7c45c6b-5e49-adb6-b8ef-8623b90bcb23/pr_source.png/392x696bb.png"
+        "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/8d/7d/668d7d4e-2d56-a4b6-d0d4-27e8d1bd2195/pr_source.png/392x696bb.png"
+      ]
+    },
+    {
       "name": "Game Room",
       "version": "1.6.0",
       "icon": "https://app.appleapps.ir/storage/2024/05/at-17166340561262-100x100.jpg",
