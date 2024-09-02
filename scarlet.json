@@ -22,6 +22,7 @@
     {
       "name": "Pilgrims| اپل آرکید - مادربزرگ ، راهزن و شیطان",
       "version": "1.0.10",
+      "icon": "https://cdn.appleapps.ir/2020/07/at-15946545181674-100x100.jpg",
       "down": "https://dl2.apptrackr.ir/user1/ios/2020/Pilgrims_v1.0.10.ipa",
       "dev": "RepoApps",
       "category": "بازی ها",
@@ -47,6 +48,26 @@
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/f7/c4/5c/f7c45c6b-5e49-adb6-b8ef-8623b90bcb23/pr_source.png/392x696bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/Purple123/v4/66/8d/7d/668d7d4e-2d56-a4b6-d0d4-27e8d1bd2195/pr_source.png/392x696bb.png"
       ]
+    },
+    {
+      "name": "Music Player ‣ | پخش موزیک آفلاین و آنلاین",
+      "version": "1.18.4",
+      "down": "https://dl3.apptrackr.ir/ios/2023/MusicPlayerv1.18.4.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "این نسخه بصورت پیش فرض آنلاک شده است.\n\nاین برنامه شامل لیست پخش آنلاین است که جدیدترین موزیک های جهان را در اختیار کاربر قرار میدهد و همچنین میتوانید موزیک های خود را به داخل برنامه انتقال دهید و از پلیر برنامه استفاده کنید.",
+      "bundleID": "com.dylancompanjen.musio",
+      "appstore": "com.dylancompanjen.musio"
+    },
+    {
+      "name": "CPU Dasher Mobile Master Tools++",
+      "version": "2.7.3",
+      "down": "https://s5.uupload.ir/files/ipafiledl98/CPUـDasherـPro_2.7.3_iOS宝藏.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "✅این نسخه بصورت پیش فرض آنلاک شده است.\n⚠️در اجرای اول کرش خواهد کرد‼️\n\nCPU Dasher Master یک دستیار همه کاره برای مشاهده اطلاعات دستگاه است\n\nعمدتا به چند بخش تقسیم می شود\n\n1، اطلاعات تجهیزات\n\n2، اطلاعات CPU\n\n3، اطلاعات حافظه\n\n4، اطلاعات باتری\n\n5، اطلاعات شبکه\n\n6. نمایش سریع ویجت ها\n\n7. سفارشی سازی پوست ویجت\n\n8. ابزارهای رایج: تست ضربان قلب، ابزار شبکه، تست نویز، تصمیم گیری*، آمار ترافیک، تست صفحه نمایش و غیره.",
+      "bundleID": "com.suwen.DeviceInfo",
+      "appstore": "com.suwen.DeviceInfo"
     },
     {
       "name": "Game Room",
