@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "PopFrame++ | اسکرین شات ها و ضبط ها صفحه ",
+    "bundleIdentifier": "com.karnal.casing",
+    "developerName": "RepoApps",
+    "version": "2.9.1",
+    "versionDate": "1403-06-13",
+    "versionDescription": "نسخه 2.9.1 برنامه PopFrame++ | اسکرین شات ها و ضبط ها صفحه  در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2024/PopFrame2.9.1.ipa",
+    "localizedDescription": "نسخه 2.9.1 برنامه PopFrame++ | اسکرین شات ها و ضبط ها صفحه  در RepoApps",
+    "iconURL": "https://app.appleapps.ir/storage/2024/04/at-17126918531585-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 78651844,
+    "type": 1
+    }
+    {
         "name": "Forest - تمرکز بیشتر روی کارها",
         "bundleIdentifier": "com.forestapp.Forest",
         "developerName": "RepoApps",
