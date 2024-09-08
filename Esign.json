@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "CapCut| برنامه کپ‌کات ورژن تست‌فلایت",
+    "bundleIdentifier": "com.lemon.lvoverseas",
+    "developerName": "RepoApps",
+    "version": "12.8.0",
+    "versionDate": "1403-06-18",
+    "versionDescription": "نسخه 12.8.0 برنامه CapCut| برنامه کپ‌کات ورژن تست‌فلایت در RepoApps",
+    "downloadURL": "https://s5.uupload.ir/files/ipafiledl98/CapCut-12.8.0-TestFlight.ipa",
+    "localizedDescription": "نسخه 12.8.0 برنامه CapCut| برنامه کپ‌کات ورژن تست‌فلایت در RepoApps",
+    "iconURL": "https://s5.uupload.ir/files/ipafiledl98/IMG_7699.png",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 221354900,
+    "type": 1
+    },
+    {
     "name": "Reelsy No Ads",
     "bundleIdentifier": "com.wotoapp.reelsy",
     "developerName": "RepoApps",
