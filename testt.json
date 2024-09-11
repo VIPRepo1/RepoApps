@@ -2989,21 +2989,6 @@
         "type": 1
     },
     {
-        "name": "Twitter++ X| توییتر پیشرفته",
-        "bundleIdentifier": "com.atebits.Tweetie2",
-        "developerName": "RepoApps",
-        "version": "10.54.1",
-        "versionDate": "1403-06-13",
-        "versionDescription": "نسخه 10.54.1 Twitter++ X| توییتر پیشرفته در RepoApps",
-        "downloadURL": "https://dl3.apptrackr.ir/ios/2024/X10.54.1.ipa",
-        "localizedDescription": "نسخه 10.54.1 Twitter++ X| توییتر پیشرفته در RepoApps",
-        "iconURL": "https://app.appleapps.ir/storage/2023/08/at-16924583481303-100x100.jpg",
-        "tintColor": "018084",
-        "isLanZouCloud": 0,
-        "size": 141779011,
-        "type": 1
-    },
-    {
         "name": "StoryFont++| استوری فونت",
         "bundleIdentifier": "com.mfapp.storyFontEn",
         "developerName": "RepoApps",
