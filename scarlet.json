@@ -20,6 +20,21 @@
       ]
     },
     {
+      "name": "سکه کارت به کارت بانک ملت",
+      "version": "4.17",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-1589626597-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2024/sekeh4.17.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه های ایرانی",
+      "description": "با سامانه کیف همراه به پرداخت ملت ( سکه )  امور پرداخت خود را به سادگی، سریع و با امنیت بالا انجام دهید.",
+      "bundleID": "com.bpmobile.sekeh",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-1589626575-250x450.png",
+        "https://cdn.appleapps.ir/2020/05/at-1589626579-250x450.png",
+        "https://cdn.appleapps.ir/2020/05/at-1589626582-250x450.png"
+      ]
+    },
+    {
       "name": "Akinator VIP",
       "version": "8.21",
       "down": "https://dl3.apptrackr.ir/ios/2024/AkinatorVIPv8.21.ipa",
