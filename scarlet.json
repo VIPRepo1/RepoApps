@@ -20,6 +20,16 @@
       ]
     },
     {
+      "name": "Akinator VIP",
+      "version": "8.21",
+      "down": "https://dl3.apptrackr.ir/ios/2024/AkinatorVIPv8.21.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "آکیناتور می تواند فقط با پرسیدن چند سوال ذهن شما را بخواند و به شما بگوید که به چه شخصیتی فکر می کنید. به یک شخصیت واقعی یا خیالی فکر کنید و آکیناتور سعی خواهد کرد حدس بزند این شخص کیست.\n\nآیا جرأت دارید جن را به چالش بکشید؟ و سایر مضامین مانند فیلم ، حیوانات ...؟",
+      "bundleID": "com.elokence.akinator",
+      "appstore": "com.elokence.akinator"
+    },
+    {
       "name": "CapCut| برنامه کپ‌کات ورژن تست‌فلایت",
       "version": "12.8.0",
       "down": "https://s5.uupload.ir/files/ipafiledl98/CapCut-12.8.0-TestFlight.ipa",
