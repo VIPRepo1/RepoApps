@@ -20,6 +20,26 @@
       ]
     },
     {
+      "name": "Slayaway Camp | پازل ترسناک دهه ۸۰ با طنز تاریک",
+      "version": "4.17",
+      "down": "https://dl3.apptrackr.ir/ios/2024/SlayawayCampv4.17.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": " یک بازی پازلی ترسناک است که با الهام از فیلم‌های ترسناک دهه ۸۰ میلادی ساخته شده است. این بازی به طرز جالبی ژانر وحشت را با طنز تاریک و گرافیک پیکسلی ترکیب می‌کند.\n\nدر این بازی، شما در نقش یک قاتل سریالی به نام Skullface بازی می‌کنید که باید در هر مرحله قربانیان خود را شکار کنید.",
+      "bundleID": "com.bluewizard.slayawaycamp",
+      "appstore": "com.bluewizard.slayawaycamp"
+    },
+    {
+      "name": "Skate City | بهترین بازی اسکیت برد",
+      "version": "5.9",
+      "down": "https://dl3.apptrackr.ir/ios/2024/SkateCityv5.9.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "بازی Skate City از سری بازی های برگزیده اپل آرکید که بدون نیاز به پرداخت اشتراک اپل آرکید کاملا رایگان از RepoApps قابل دریافت می باشد  ",
+      "bundleID": "com.snowman.skatecity",
+      "appstore": "com.snowman.skatecity"
+    },
+    {
       "name": "سکه کارت به کارت بانک ملت",
       "version": "4.17",
       "icon": "https://cdn.appleapps.ir/2020/05/at-1589626597-100x100.png",
