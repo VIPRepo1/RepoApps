@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "Akinator VIP",
+    "bundleIdentifier": "com.elokence.akinator",
+    "developerName": "RepoApps",
+    "version": "8.21",
+    "versionDate": "1403-06-13",
+    "versionDescription": "نسخه 8.21 برنامه Akinator VIP در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2024/AkinatorVIPv8.21.ipa",
+    "localizedDescription": "نسخه 8.21 برنامه Akinator VIP در RepoApps",
+    "iconURL": "https://app.appleapps.ir/storage/2024/05/at-17168769221759-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 122507387,
+    "type": 1
+    },
+    {
     "name": "CapCut| برنامه کپ‌کات ورژن تست‌فلایت",
     "bundleIdentifier": "com.lemon.lvoverseas",
     "developerName": "RepoApps",
