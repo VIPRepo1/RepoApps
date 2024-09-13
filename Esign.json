@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "Duolingo - Language Lessons++",
+    "bundleIdentifier": "com.duolingo.DuolingoMobile",
+    "developerName": "RepoApps",
+    "version": "7.29.0",
+    "versionDate": "1403-06-23",
+    "versionDescription": "نسخه 7.29.0 برنامه Duolingo - Language Lessons++ در RepoApps",
+    "downloadURL": "https://s5.uupload.ir/files/ipafiledl98/Duolingo_7.29.0_Premium.ipa",
+    "localizedDescription": "نسخه 7.29.0 برنامه Duolingo - Language Lessons++ در RepoApps",
+    "iconURL": "https://app.appleapps.ir/storage/2023/12/at-17027017761588-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 114310051,
+    "type": 1
+    },
+    {
     "name": "Walli: Cool Wallpapers HD, 4K++",
     "bundleIdentifier": "com.stanga.projectKu",
     "developerName": "RepoApps",
