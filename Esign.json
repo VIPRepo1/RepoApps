@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "True Skate | بازی و شبیه ساز اسکیت برد",
+    "bundleIdentifier": "com.trueaxis.skate",
+    "developerName": "RepoApps",
+    "version": "1.5.80",
+    "versionDate": "1403-06-24",
+    "versionDescription": "نسخه 1.5.80 برنامه True Skate | بازی و شبیه ساز اسکیت برد در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2024/TrueSkatev1.5.80.ipa",
+    "localizedDescription": "نسخه 1.5.80 برنامه True Skate | بازی و شبیه ساز اسکیت برد در RepoApps",
+    "iconURL": "https://app.appleapps.ir/storage/2023/04/at-16826092081906-100x100.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 119797232,
+    "type": 1
+    },
+    {
     "name": "50 Tiny Room Escape | فرار از اتاق سه بعدی",
     "bundleIdentifier": "com.kiarygames.tinydoors",
     "developerName": "RepoApps",
