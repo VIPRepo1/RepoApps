@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Word Game</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f4f4f4;
+        }
+        .game-container {
+            position: relative;
+            width: 300px;
+            height: 600px;
+            border: 2px solid #333;
+            background-color: white;
+        }
+        .ball {
+            position: absolute;
+            width: 20px;
+            height: 20px;
+            background-color: orange;
+            border-radius: 50%;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        .hole {
+            position: absolute;
+            width: 40px;
+            height: 40px;
+            background-color: blue;
+            border-radius: 50%;
+            left: 50%;
+            transform: translateX(-50%);
+        }
+        #hole1 {
+            bottom: 0;
+        }
+        #hole2 {
+            top: 0;
+            background-color: red;
+        }
+        .controls {
+            display: flex;
+            justify-content: center;
+            margin-top: 20px;
+        }
+        .control-button {
+            margin: 0 10px;
+            padding: 10px 20px;
+            background-color: #333;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+    </style>
+</head>
+<body>
+
+<div class="game-container">
+    <div class="ball" id="ball"></div>
+    <div class="hole" id="hole1"></div>
+    <div class="hole" id="hole2"></div>
+</div>
+
+<div class="controls">
+    <button class="control-button" onclick="player1Answer()">Player 1 Answer</button>
+    <button class="control-button" onclick="player2Answer()">Player 2 Answer</button>
+</div>
+
+<script>
+    let ball = document.getElementById('ball');
+    let ballPosition = 50; // Start at the middle of the container
+    let gameInterval;
+    let gameSpeed = 2; // Speed of the ball movement
+
+    function moveBall(direction) {
+        clearInterval(gameInterval);
+        gameInterval = setInterval(() => {
+            ballPosition += direction * gameSpeed;
+            ball.style.top = `${ballPosition}%`;
+
+            // Check if ball reaches Player 1 hole
+            if (ballPosition <= 5) {
+                clearInterval(gameInterval);
+                alert("Player 2 Wins!");
+                resetGame();
+            }
+
+            // Check if ball reaches Player 2 hole
+            if (ballPosition >= 95) {
+                clearInterval(gameInterval);
+                alert("Player 1 Wins!");
+                resetGame();
+            }
+        }, 100);
+    }
+
+    function player1Answer() {
+        moveBall(1); // Move ball towards Player 2's hole
+    }
+
+    function player2Answer() {
+        moveBall(-1); // Move ball towards Player 1's hole
+    }
+
+    function resetGame() {
+        ballPosition = 50;
+        ball.style.top = `${ballPosition}%`;
+    }
+
+    // Initialize the ball position
+    resetGame();
+</script>
+
+</body>
+</html>
