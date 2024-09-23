@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
     <title>Word Game</title>
     <style>
         body {
@@ -14,6 +14,7 @@
             margin: 0;
             background-color: #f4f4f4;
             font-family: Arial, sans-serif;
+            overflow: hidden;
         }
         .game-container {
             position: relative;
@@ -65,28 +66,46 @@
         }
         .control-button-1 {
             position: absolute;
-            top: 20px;
+            top: 50%;
             left: 20px;
+            transform: translateY(-50%);
         }
         .control-button-2 {
             position: absolute;
+            top: 50%;
+            right: 20px;
+            transform: translateY(-50%);
+        }
+        .reset-button {
+            position: absolute;
+            bottom: 20px;
+            left: 50%;
+            transform: translateX(-50%);
+            padding: 10px 20px;
+            background-color: #f00;
+            color: white;
+            border: none;
+            cursor: pointer;
+            font-size: 16px;
+        }
+        .score {
+            position: absolute;
+            font-size: 18px;
+            font-weight: bold;
+        }
+        .score-1 {
             bottom: 20px;
             right: 20px;
         }
-        .path {
-            position: absolute;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            background: no-repeat center/contain;
+        .score-2 {
+            top: 20px;
+            left: 20px;
         }
     </style>
 </head>
 <body>
 
 <div class="game-container">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Spiral.svg/1200px-Spiral.svg.png" alt="path" class="path" />
     <div class="ball" id="ball"></div>
     <div class="hole" id="hole1"></div>
     <div class="hole" id="hole2"></div>
@@ -97,11 +116,18 @@
     <button class="control-button control-button-2" onclick="player2Answer()">جواب دادم</button>
 </div>
 
+<button class="reset-button" onclick="resetRound()">ریست</button>
+
+<div class="score score-1" id="score1">0</div>
+<div class="score score-2" id="score2">0</div>
+
 <script>
     let ball = document.getElementById('ball');
     let ballPosition = 50; // Start at the middle of the container
     let gameInterval;
-    let gameSpeed = 1; // Adjust this value to change the speed (for example, set to 1 for slower movement)
+    let gameSpeed = 0.5; // Slower speed for the ball movement
+    let score1 = 0;
+    let score2 = 0;
 
     function moveBall(direction) {
         clearInterval(gameInterval);
@@ -112,15 +138,17 @@
             // Check if ball reaches Player 1 hole
             if (ballPosition <= 5) {
                 clearInterval(gameInterval);
-                alert("Player 2 Wins!");
-                resetGame();
+                score2++;
+                updateScores();
+                checkWinner();
             }
 
             // Check if ball reaches Player 2 hole
             if (ballPosition >= 95) {
                 clearInterval(gameInterval);
-                alert("Player 1 Wins!");
-                resetGame();
+                score1++;
+                updateScores();
+                checkWinner();
             }
         }, 100);
     }
@@ -133,13 +161,36 @@
         moveBall(-1); // Move ball towards Player 1's hole
     }
 
-    function resetGame() {
+    function updateScores() {
+        document.getElementById('score1').innerText = score1;
+        document.getElementById('score2').innerText = score2;
+    }
+
+    function checkWinner() {
+        if (score1 >= 3) {
+            alert("Player 1 Wins!");
+            resetGame();
+        } else if (score2 >= 3) {
+            alert("Player 2 Wins!");
+            resetGame();
+        }
+    }
+
+    function resetRound() {
         ballPosition = 50;
         ball.style.top = `${ballPosition}%`;
+        clearInterval(gameInterval);
+    }
+
+    function resetGame() {
+        resetRound();
+        score1 = 0;
+        score2 = 0;
+        updateScores();
     }
 
     // Initialize the ball position
-    resetGame();
+    resetRound();
 </script>
 
 </body>
