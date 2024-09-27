@@ -20,6 +20,16 @@
       ]
     },
     {
+      "name": "Radio Javan ++ | رادیو جوان پریمیوم",
+      "version": "22.1",
+      "down": "https://s5.uupload.ir/files/ipafiledl98/Radio%20Javan+.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه ها",
+      "description": "نسخه پریمیوم بدون نیاز به پرداخت ۴۹ دلار هزینه درون برنامه ای",
+      "bundleID": "com.RadioJavan.RJ",
+      "appstore": "com.RadioJavan.RJ"
+    },
+    {
       "name": "Workout for Women: Fit at Home++ | تمرین و تناسب اندام خانگی زنانه",
       "version": "1.0.81",
       "down": "https://dl3.apptrackr.ir/ios/2024/com.abishkking.womenworkout1.0.81.ipa",
