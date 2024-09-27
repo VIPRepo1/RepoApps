@@ -34,6 +34,21 @@
     "type": 1
     },
     {
+    "name": "Radio Javan ++ | رادیو جوان پریمیوم",
+    "bundleIdentifier": "com.RadioJavan.RJ",
+    "developerName": "RepoApps",
+    "version": "22.1",
+    "versionDate": "1403-07-06",
+    "versionDescription": "نسخه 22.1 برنامه Radio Javan ++ | رادیو جوان پریمیوم در RepoApps",
+    "downloadURL": "https://s5.uupload.ir/files/ipafiledl98/Radio%20Javan+.ipa",
+    "localizedDescription": "نسخه 22.1 برنامه Radio Javan ++ | رادیو جوان پریمیوم در RepoApps",
+    "iconURL": "https://s5.uupload.ir/files/ipafiledl98/IMG_8212.png",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 24753327,
+    "type": 1
+    },
+    {
     "name": "iMoonCamera Pro2| برنامه دوربین برای عکاسی ماه",
     "bundleIdentifier": "jp.iMoonCameraPro",
     "developerName": "RepoApps",
