@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "SpeakWell - Learn English++ | آنلاک شده",
+    "bundleIdentifier": "co.appnation.speakwell",
+    "developerName": "RepoApps",
+    "version": "1.0.0",
+    "versionDate": "1403-08-10",
+    "versionDescription": "نسخه 1.0.0 برنامه SpeakWell - Learn English++ | آنلاک شده در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2024/wellspeak1.0.0.ipa",
+    "localizedDescription": "نسخه 1.0.0 برنامه SpeakWell - Learn English++ | آنلاک شده در RepoApps",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/d6/a6/90/d6a69055-8ef4-1cd6-4eab-14cb3eed529b/AppIcon-0-0-1x_U007epad-0-85-220.jpeg/512x512bb.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 46980291,
+    "type": 1
+    },
+    {
     "name": "Filmora AI Video | اپلیکیشن ویرایش ویدیو فوق‌العاده",
     "bundleIdentifier": "com.wondershare.FilmoraGo",
     "developerName": "RepoApps",
