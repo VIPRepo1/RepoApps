@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "SpotPlayer | پخش کننده اسپات پلیر",
+    "bundleIdentifier": "ir.spotplayer.app",
+    "developerName": "RepoApps",
+    "version": "5.3",
+    "versionDate": "1403-08-28",
+    "versionDescription": "نسخه 5.3 برنامه SpotPlayer | پخش کننده اسپات پلیر در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2023/spotplayer5.3.ipa",
+    "localizedDescription": "نسخه 5.3 برنامه SpotPlayer | پخش کننده اسپات پلیر در RepoApps",
+    "iconURL": "https://fs.sibapp.net/file/image/application/3f5d6d6d944443eda612ea5da0be70fc.png",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 9038164,
+    "type": 1
+    },
+    {
     "name": "Score! Hero Hack",
     "bundleIdentifier": "com.firsttouch.story",
     "developerName": "RepoApps",
