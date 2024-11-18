@@ -20,6 +20,21 @@
       ]
     },
     {
+      "name": "SpotPlayer | پخش کننده اسپات پلیر",
+      "version": "5.3",
+      "icon": "https://app.appleapps.ir/storage/2023/07/at-16903561161324-100x100.png",
+      "down": "https://dl3.apptrackr.ir/ios/2023/spotplayer5.3.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه های ایرانی",
+      "description": "پخش کننده مالتی پلتفرم صدا و ویدیو با قابلیت قفل گذاری و حفاظت از کپی و ضبط، به همراه ارائه آمار و جزییات ویدیوهای پخش شده",
+      "bundleID": "ir.spotplayer.app",
+      "screenshots": [
+        "https://app.appleapps.ir/storage/2023/07/at-16903561571979-250x450.jpeg",
+        "https://app.appleapps.ir/storage/2023/07/at-16903561571979-250x450.jpeg",
+        "https://app.appleapps.ir/storage/2023/07/at-16903561571979-250x450.jpeg"
+      ]
+    },
+    {
       "name": "علی بابا | Alibaba.ir",
       "version": "8.0.4",
       "icon": "https://app.appleapps.ir/storage/2020/05/at-16871073301589-100x100.jpeg",
