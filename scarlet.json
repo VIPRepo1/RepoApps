@@ -7,7 +7,7 @@
     {
       "name": "Exploding Kittens® 2",
       "version": "0.0.10",
-      "icon": "https://app.appleapps.ir/storage/2024/08/at-17236630511520-100x100.jpg",
+      "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/7e/ee/f37eeea9-4095-52c9-d8e2-01b00fb66774/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
       "down": "https://dl3.apptrackr.ir/ios/2024/ExplodingKittens2v0.0.10.ipa",
       "dev": "RepoApps",
       "category": "بازی ها",
@@ -18,6 +18,16 @@
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/f7/18/e7f718fa-c438-3252-4d90-536f892acc40/ee3341e6-20b9-4562-9b7f-34b90ac0b3e7_EK2_screenshots_mobile_Launch_2208x1242_05_eng.png/406x228bb.png",
         "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/5a/75/755a751e-610f-8dbf-2f95-ec9cb2e46b02/fd28311e-d1eb-4101-a071-b2f3d53661e0_EK2_screenshots_mobile_Launch_2208x1242_04_eng.png/406x228bb.png"
       ]
+    },
+    {
+      "name": "Exploding Kittens",
+      "version": "5.3.9",
+      "down": "https://dl3.apptrackr.ir/ios/2024/Kittens5.3.9.ipa",
+      "dev": "RepoApps",
+      "category": "بازی ها",
+      "description": "راه های جدید بازی! در بازی آنلاین با دوستان یا غریبه ها بازی کنید یا بصورت آفلاین با دوستان خود رو در رو بازی کنید!\n\nدر این نسخه بسیار استراتژیک ، بچه گربه از رولت روسی(یک نوع بازی و سرگرمی) ، بازیکنان کارت می کشند تا زمانی که کسی یک بچه گربه را بکشد ، در آن زمان آنها منفجر می شوند ، آنها می میرند و از بازی خارج می شوند - مگر اینکه آن بازیکن یک بازیکن کارت Defuse داشته باشد  ، که می تواند بچه گربه را با استفاده از مواردی مانند اشاره گر لیزری ، مالش شکم و ساندویچ گربه خنثی کند. تمام کارتهای دیگر در عرشه برای جابجایی ، تخفیف یا پرهیز از بچه گربه های در حال انفجار استفاده می شوند.\n\nویژگی های اصلی:\n\n- انفجار بچه گربه ها یک بازی کارت چند نفره برای افرادی است که درگیر بچه گربه ها و انفجارها و پرتوهای لیزر و گاهی بزها هستند.\n\n- با 2 تا 5 بازیکن در چندین تلفن در یک اتاق یا به صورت آنلاین با دوستان یا غریبه ها بازی کنید\n\n- تمام هنرهای تهیه شده توسط جو دوسر\n\n- کارت های جدید منحصر به فرد نسخه دیجیتالی انفجار بچه گربه ها",
+      "bundleID": "com.explodingkittens.projectbombsquad",
+      "appstore": "com.explodingkittens.projectbombsquad"
     },
     {
       "name": "VivaVideo ++ | ویوا ویدیو آنلاک شده",
