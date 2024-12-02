@@ -1,42 +1,59 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="fa">
 <head>
 <meta charset="UTF-8">
-<title>Battery Level to Telegram</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>ارسال موقعیت به تلگرام</title>
 </head>
 <body>
-<p id="battery">در حال دریافت میزان شارژ باتری...</p>
-<button onclick="sendToTelegram()">ارسال به تلگرام</button>
+<button onclick="getLocation()">ارسال موقعیت به تلگرام</button>
 
 <script>
-navigator.getBattery().then(function(battery) {
-    function updateBatteryStatus() {
-        document.getElementById('battery').textContent = `میزان شارژ باتری: ${Math.round(battery.level * 100)}%`;
+function getLocation() {
+    if (navigator.geolocation) {
+        navigator.geolocation.getCurrentPosition(sendPositionToTelegram, showError);
+    } else { 
+        alert("Geolocation is not supported by this browser.");
     }
-    updateBatteryStatus();
-    battery.addEventListener('chargingchange', updateBatteryStatus);
-    battery.addEventListener('levelchange', updateBatteryStatus);
-});
+}
 
-function sendToTelegram() {
-    navigator.getBattery().then(function(battery) {
-        var batteryLevel = Math.round(battery.level * 100);
-        var telegramToken = '7570828689:AAHWrO48Y9WbjjjG1q5oeKAHZJB44bU2jWE';
-        var chatId = '216273191';
-        var message = `میزان شارژ باتری: ${batteryLevel}%`;
-        var url = `https://api.telegram.org/bot${telegramToken}/sendMessage?chat_id=${chatId}&text=${encodeURI(message)}`;
+function sendPositionToTelegram(position) {
+    const latitude = position.coords.latitude;
+    const longitude = position.coords.longitude;
+    const telegramToken = '7570828689:AAHWrO48Y9WbjjjG1q5oeKAHZJB44bU2jWE';
+    const chatId = '216273191';
+    const message = `موقعیت مکانی: ${latitude}, ${longitude}`;
+    const url = `https://api.telegram.org/bot${telegramToken}/sendMessage?chat_id=${chatId}&text=${encodeURIComponent(message)}`;
 
-        fetch(url)
-        .then(response => response.json())
-        .then(data => {
-            if (data.ok) {
-                alert('پیام با موفقیت ارسال شد.');
-            } else {
-                alert('خطا در ارسال پیام.');
-            }
-        })
-        .catch(error => alert('خطا در ارسال پیام: ' + error));
+    fetch(url)
+    .then(response => response.json())
+    .then(data => {
+        if (data.ok) {
+            alert('موقعیت با موفقیت ارسال شد.');
+        } else {
+            alert('خطا در ارسال موقعیت.');
+        }
+    })
+    .catch(error => {
+        alert('خطا در ارسال موقعیت: ' + error);
     });
+}
+
+function showError(error) {
+    switch(error.code) {
+        case error.PERMISSION_DENIED:
+            alert("User denied the request for Geolocation.");
+            break;
+        case error.POSITION_UNAVAILABLE:
+            alert("Location information is unavailable.");
+            break;
+        case error.TIMEOUT:
+            alert("The request to get user location timed out.");
+            break;
+        case error.UNKNOWN_ERROR:
+            alert("An unknown error occurred.");
+            break;
+    }
 }
 </script>
 </body>
