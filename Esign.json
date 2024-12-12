@@ -109,19 +109,19 @@
     "type": 1
     },
     {
-      "name": "Fortnite | فورتنایت",
-      "version": "33.00.1",
-      "icon": "https://s5.uupload.ir/files/ipafiledl98/download%20(1).jpeg",
-      "down": "https://dl3.apptrackr.ir/ios/2024/Fortnite33.00.1.ipa",
-      "dev": "RepoApps",
-      "category": "بازی ها",
-      "description": "برای اولین بار در بین کل استور های ایرانی بازی Fortnite جدید ترین بازی اختصاصی شرکت Epicgame رو میتونید از اپل اپس رو مستقیم در ایفون و آیپدتون نصب کنید . این بازی  به خاطر دعواهای قانونی که با اپل داشته از اپ استور حذف شده بوده و فقط در استور اپیک گیم قرار گرفته بوده ! اما اینبار شما عزیزان هم میتونید به کمک اپل اپس این بازی جذاب رو تجربه کنید .\n\n⚠️ نکات مهم قبل از نصب Fortnite آیفون  :‌\n\nاگر بعد از اجرای بازی اررور Please sign the app with the\ncorrect entitlements گرفتین حتما به پشتیبانی اپل اپس پیام بدین که مشکل رو براتون حل کنیم .\nبعد ازاینکه بازی برای بار اول اجرا میشه نیاز هست حدود ۱۱ گیگ فایل بازی دانلود بشه که خودش از داخل دانلود می کنه\nبرای لاگین به بازی  با فیلتر شک ن روشن و بدون فیلتر شکن تست کنید .\nاگر بعد از نصب بازی برای شما کرش میشد حتما به پشتیبانی پیام بدین تا سرتیفکیت شمارو به روز کنند .",
-      "bundleID": "com.epicgames.FortniteGame",
-      "screenshots": [
-        "https://app.appleapps.ir/storage/2020/08/at-17311738761908-250x200.jpg",
-        "https://app.appleapps.ir/storage/2020/08/at-17311738831392-250x200.jpg",
-        "https://app.appleapps.ir/storage/2020/08/at-17311738841947-250x200.jpg"
-      ]
+    "name": "Fortnite | فورتنایت",
+    "bundleIdentifier": "com.epicgames.FortniteGame",
+    "developerName": "RepoApps",
+    "version": "33.00.1",
+    "versionDate": "1403-09-22",
+    "versionDescription": "نسخه 33.00.1 برنامه Fortnite | فورتنایت در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2024/Fortnite33.00.1.ipa",
+    "localizedDescription": "نسخه 33.00.1 برنامه Fortnite | فورتنایت در RepoApps",
+    "iconURL": "https://s5.uupload.ir/files/ipafiledl98/download%20(1).jpeg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 217617728,
+    "type": 1
     },
     {
     "name": "همراه بانک ملی",
