@@ -20,6 +20,21 @@
       ]
     },
     {
+      "name": "نسخه نویسی سیب مد | Medical Prescription Bank",
+      "version": "2.0.3",
+      "icon": "https://fs.sibapp.net/file/image/application/d49440db7cd748e4af5881a1c706f773.png",
+      "down": "https://dl3.apptrackr.ir/ios/2024/noskhenebissib2.0.4.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه های ایرانی",
+      "description": "✅در این ورژن از اپلیکیشن در صورت تغییر نسخه‌ها توسط ما، این تغییرات به‌صورت لحظه‌ای و خودکار در گوشی شما آپدیت می‌شوند و نیازی به بروزرسانی کل اپلیکیشن نیست.\n\n✅آموزش تفسیر ECG اضافه شد.\n\n✅آموزش تفسیر آزمایشات اضافه شد.\n\n✅آموزش تفسیر گرافی‌ها اضافه شد.\n\n✅از این پس می‌توانید در هر بیماری یادداشت شخصی اضافه کنید یا به‌صورت جداگانه مبحث جدید برای خودتان بنویسید.\n\n---- بخشی تحت عنوان طرح پزشکی چیست به‌صورت رایگان قرار داده شده است که تمامی قوانین مربوط به طرح پزشکی (انواع مراکز، توضیح اصطلاحاتی مانند بیتوته و...، نحوه پرداختی‌ها، مرخصی‌ها، نحوه پیدا کردن امتیاز مطب مراکز، پیام‌آوری بهداشت و...) در آن گنجانده شده است.\n\n",
+      "bundleID": "ir.vahidpdn.medical_prescription_bank",
+      "screenshots": [
+        "https://fs.sibapp.net/file/image/application/e76a3ff65d844ac299cc3ae523011b1e.jpeg",
+        "https://fs.sibapp.net/file/image/application/d40f1f585fcf429480396d567afe1dce.jpeg",
+        "https://fs.sibapp.net/file/image/application/e8612118ec704d9c80efd4fd534e434c.jpeg"
+      ]
+    },
+    {
       "name": "YouTube Plus+ | یوتیوب با قابلیت های پریمیوم",
       "version": "19.49.5",
       "icon": "https://cdn.appleapps.ir/2020/05/at-15900721831369-100x100.png",
