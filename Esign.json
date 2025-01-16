@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "Moonly++ Moon Phases &amp; Calendar | آنلاک شده",
+    "bundleIdentifier": "com.moonly.Moonly",
+    "developerName": "RepoApps",
+    "version": "2.1.7",
+    "versionDate": "1403-10-27",
+    "versionDescription": "نسخه 2.1.7 برنامه Moonly++ Moon Phases &amp; Calendar | آنلاک شده در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Moonlyv2.1.7Pro.ipa",
+    "localizedDescription": "نسخه 2.1.7 برنامه Moonly++ Moon Phases &amp; Calendar | آنلاک شده در RepoApps",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/68/b9/eb/68b9eb30-24a5-359b-16f2-d24801464c42/AppIcon-0-0-1x_U007ephone-0-1-0-85-220.png/512x512bb.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 166041101,
+    "type": 1
+},
+    {
     "name": "نسخه نویسی سیب مد | Medical Prescription Bank",
     "bundleIdentifier": "ir.vahidpdn.medical_prescription_bank",
     "developerName": "RepoApps",
