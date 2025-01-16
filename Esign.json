@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "ایرانیکارت | IraniCard",
+    "bundleIdentifier": "com.iranicard.app",
+    "developerName": "RepoApps",
+    "version": "2.12.0",
+    "versionDate": "1403-10-27",
+    "versionDescription": "نسخه 2.12.0 برنامه ایرانیکارت | IraniCard در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/iranicard2.12.0.ipa",
+    "localizedDescription": "نسخه 2.12.0 برنامه ایرانیکارت | IraniCard در RepoApps",
+    "iconURL": "https://fs.sibapp.net/file/image/application/efd9ff10eeea4a2fbbbfed0dc953a535.png",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 19292436,
+    "type": 1
+},
+    {
     "name": "بانکت - افتتاح حساب رایگان بانک مهر",
     "bundleIdentifier": "com.ada.mbank.bankette.f",
     "developerName": "RepoApps",
