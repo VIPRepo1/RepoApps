@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "Plug & Play",
+    "bundleIdentifier": "com.etterstudio.plugandplay",
+    "developerName": "RepoApps",
+    "version": "1.3.2",
+    "versionDate": "1403-10-29",
+    "versionDescription": "نسخه 1.3.2 برنامه Plug &amp; Play در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2022/plugplay-v1.3.2-appleapps.ir.ipa",
+    "localizedDescription": "نسخه 1.3.2 برنامه Plug &amp; Play در RepoApps",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/c6/e6/07/c6e607eb-0f31-829f-d4d5-b6cff2f5261a/AppIcon-0-0-1x_U007emarketing-0-0-0-7-0-0-sRGB-0-0-0-GLES2_U002c0-512MB-85-220-0-0.png/512x512bb.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 33790714,
+    "type": 1
+    },
+    {
     "name": "AI Cartoon Generator App",
     "bundleIdentifier": "com.wowooapps.ai.avatar.maker",
     "developerName": "RepoApps",
