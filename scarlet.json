@@ -20,6 +20,21 @@
       ]
     },
     {
+      "name": "همراه کارت | Hamrah Cart",
+      "version": "2.8.6",
+      "icon": "https://cdn.appleapps.ir/2020/05/at-15896268901899-100x100.jpeg",
+      "down": "https://dl3.apptrackr.ir/ios/2025/hamrahcard2.8.6.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه های ایرانی",
+      "description": "نسخه وب WebApp\nاپلیکیشن همراه کارت یکی از بهترین اپلیکیشن های مالی و پرداختی کشور که می توانید :‌انجام تراکنش در کمتر از 20 ثانیه، ارسال پول، دریافت پول، خرید شارژ و بسته، پرداخت قبض و ...را به راحتی انجام دهید .",
+      "bundleID": "com.payda.app.hamrahcard",
+      "screenshots": [
+        "https://cdn.appleapps.ir/2020/05/at-15896268861194-250x450.jpeg",
+        "https://cdn.appleapps.ir/2020/05/at-15896268871923-250x450.jpeg",
+        "https://cdn.appleapps.ir/2020/05/at-15896268871773-250x450.jpeg"
+      ]
+    },
+    {
       "name": "Smash Hit Hack",
       "version": "1.5.4",
       "icon": "https://app.appleapps.ir/storage/2024/03/at-17093787241937-100x100.jpg",
@@ -4178,21 +4193,6 @@
 "https://app.appleapps.ir/storage/2022/11/at-16834500691782.jpg",
 "https://app.appleapps.ir/storage/2022/11/at-16834500691782.jpg",
 "https://app.appleapps.ir/storage/2022/11/at-16834500701188.jpg",
-      ]
-    },
-    {
-      "name": "همراه کارت | Hamrah Cart",
-      "version": "2.8.5",
-      "icon": "https://cdn.appleapps.ir/2020/05/at-15896268901899-100x100.jpeg",
-      "down": "https://dl3.apptrackr.ir/ios/2024/hamrahcard2.8.5.ipa",
-      "dev": "RepoApps",
-      "category": "برنامه های ایرانی",
-      "description": "نسخه وب WebApp\nاپلیکیشن همراه کارت یکی از بهترین اپلیکیشن های مالی و پرداختی کشور که می توانید :‌انجام تراکنش در کمتر از 20 ثانیه، ارسال پول، دریافت پول، خرید شارژ و بسته، پرداخت قبض و ...را به راحتی انجام دهید .",
-      "bundleID": "com.payda.app.hamrahcard",
-      "screenshots": [
-        "https://cdn.appleapps.ir/2020/05/at-15896268861194-250x450.jpeg",
-        "https://cdn.appleapps.ir/2020/05/at-15896268871923-250x450.jpeg",
-        "https://cdn.appleapps.ir/2020/05/at-15896268871773-250x450.jpeg"
       ]
     },
     {
