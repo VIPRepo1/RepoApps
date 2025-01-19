@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "همراه کارت | Hamrah Cart",
+    "bundleIdentifier": "com.payda.app.hamrahcard",
+    "developerName": "RepoApps",
+    "version": "2.8.6",
+    "versionDate": "1403-10-30",
+    "versionDescription": "نسخه 2.8.6 برنامه همراه کارت | Hamrah Cart در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/hamrahcard2.8.6.ipa",
+    "localizedDescription": "نسخه 2.8.6 برنامه همراه کارت | Hamrah Cart در RepoApps",
+    "iconURL": "https://fs.sibapp.net/file/image/application/d6a322a776184aaeb366b96068dae65a.png",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 12220653,
+    "type": 1
+},
+    {
     "name": "NumberBox+ Caller ID | بدون تبلیغات",
     "bundleIdentifier": "com.hotcodes.numberbox",
     "developerName": "RepoApps",
@@ -4983,21 +4998,6 @@
     "size": 94927672,
     "type": 1
 },
-    {
-        "name": "همراه کارت | Hamrah Cart",
-        "bundleIdentifier": "com.payda.app.hamrahcard",
-        "developerName": "RepoApps",
-        "version": "2.8.5",
-        "versionDate": "1403-09-22",
-        "versionDescription": "نسخه 2.8.5 همراه کارت | Hamrah Cart در RepoApps",
-        "downloadURL": "https://dl3.apptrackr.ir/ios/2024/hamrahcard2.8.5.ipa",
-        "localizedDescription": "نسخه 2.8.5 همراه کارت | Hamrah Cart در RepoApps",
-        "iconURL": "https://fs.sibapp.net/file/image/application/d6a322a776184aaeb366b96068dae65a.png",
-        "tintColor": "018084",
-        "isLanZouCloud": 0,
-        "size": 1965640,
-        "type": 1
-    },
     {
         "name": "Picsart++|پیکس ارت مود شده ",
         "bundleIdentifier": "com.picsart.studio",
