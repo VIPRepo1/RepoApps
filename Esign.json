@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "iMe: AI Messenger for Telegram++ | آنلاک شده",
+    "bundleIdentifier": "com.olcorporation.olai",
+    "developerName": "RepoApps",
+    "version": "11.6.0",
+    "versionDate": "1403-10-27",
+    "versionDescription": "نسخه 11.6.0 برنامه iMe: AI Messenger for Telegram++ | آنلاک شده در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/iMe11.6.0Pro.ipa",
+    "localizedDescription": "نسخه 11.6.0 برنامه iMe: AI Messenger for Telegram++ | آنلاک شده در RepoApps",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/0f/56/22/0f5622d8-772f-5735-88a7-8be7e18784d1/BlueIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 130242584,
+    "type": 1
+},
+    {
     "name": "XCOM 2 Collection",
     "bundleIdentifier": "com.feralinteractive.xcom2-ios",
     "developerName": "RepoApps",
@@ -1066,21 +1081,6 @@
     "tintColor": "018084",
     "isLanZouCloud": 0,
     "size": 107224683,
-    "type": 1
-    },
-    {
-    "name": "iMe: AI Messenger | نسخه پریمیوم تلگرام iMe با امکانات ویژه",
-    "bundleIdentifier": "com.olcorporation.olai",
-    "developerName": "RepoApps",
-    "version": "11.3.1.0.2",
-    "versionDate": "1403-08-28",
-    "versionDescription": "نسخه 11.3.1.0.2 برنامه iMe: AI Messenger | نسخه پریمیوم تلگرام iMe با امکانات ویژه در RepoApps",
-    "downloadURL": "https://dl3.apptrackr.ir/ios/2024/iMe-11.3.1Pro-appleapps.ipa",
-    "localizedDescription": "نسخه 11.3.1.0.2 برنامه iMe: AI Messenger | نسخه پریمیوم تلگرام iMe با امکانات ویژه در RepoApps",
-    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/c0/52/4c/c0524c5e-8e4f-4cc4-dc93-3cd699251740/BlueIcon-0-0-1x_U007epad-0-9-0-85-220.png/512x512bb.jpg",
-    "tintColor": "018084",
-    "isLanZouCloud": 0,
-    "size": 118121804,
     "type": 1
     },
     {
