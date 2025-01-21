@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "Busuu Language Learning++ | آنلاک شده",
+    "bundleIdentifier": "com.busuu.english.app",
+    "developerName": "RepoApps",
+    "version": "28.22.0",
+    "versionDate": "1403-11-02",
+    "versionDescription": "نسخه 28.22.0 برنامه Busuu Language Learning++ | آنلاک شده در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Busuuv28.22.0.ipa",
+    "localizedDescription": "نسخه 28.22.0 برنامه Busuu Language Learning++ | آنلاک شده در RepoApps",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/b3/23/1e/b3231e7a-4c04-6b3e-8dfb-06094c583270/AppIcon-0-0-1x_U007emarketing-0-8-0-sRGB-0-0-85-220.png/512x512bb.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 158586035,
+    "type": 1
+},
+    {
     "name": "Modern Command Mayhem Hack",
     "bundleIdentifier": "net.blastbit.mcm",
     "developerName": "RepoApps",
