@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "دانلود منیجر چیتا | Cheetah",
+    "bundleIdentifier": "com.mamadshahib.Cheetah",
+    "developerName": "RepoApps",
+    "version": "6.9.2",
+    "versionDate": "1403-11-05",
+    "versionDescription": "نسخه 6.9.2 برنامه دانلود منیجر چیتا | Cheetah در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2022/Cheetah-v6.9.2.ipa",
+    "localizedDescription": "نسخه 6.9.2 برنامه دانلود منیجر چیتا | Cheetah در RepoApps",
+    "iconURL": "https://fs.sibapp.net/file/image/application/f8399e2ba1794388a4b1330085f5b987.png",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 13395464,
+    "type": 1
+    },
+    {
         "name": "زبان‌ دات‌ کام | Zaban.com",
         "bundleIdentifier": "edu.xaban.xaban",
         "developerName": "RepoApps",
