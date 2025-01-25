@@ -3512,16 +3512,6 @@
             "appstore": "com.kingsoft.office.g.wpsoffice"
         },
         {
-            "name": "Photomath ++ | حل مسائل ریاضی",
-            "version": "8.40.0",
-            "down": "https://dl3.apptrackr.ir/ios/2024/Photomath8.40.0.ipa",
-            "dev": "RepoApps",
-            "category": "برنامه ها",
-            "description": "نسخه آنلاک شده اپلیکیشن فوق العاده Photomath که به کمک آن می توانید مسائل ریاضی را حل کرده و نمونه راه حل های پاسخ را آموزش ببینید را بدون نیاز به ۵۹ دلار هزینه درونی برنامه ای رایگان استفاده کنید .",
-            "bundleID": "com.microblink.PhotoMath",
-            "appstore": "com.microblink.PhotoMath"
-        },
-        {
             "name": "WireVPN - Fast VPN & Proxy++",
             "version": "3.3",
             "down": "https://s5.uupload.ir/files/ipafiledl98/Wirevpn_3.3VIP.ipa",
@@ -4453,7 +4443,7 @@
             ]
         },
         {
-            "name": "ست | Set",
+            "name": "ست(تجارت) | Set",
             "version": "1.3.12",
             "icon": "https://cdn.appleapps.ir/2020/07/at-15953391851508-100x100.png",
             "down": "https://dl3.apptrackr.ir/ios/2022/set-v1.3.12-appleapps.ir.ipa",
