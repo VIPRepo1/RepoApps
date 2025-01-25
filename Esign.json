@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "اسنپ | Snapp",
+    "bundleIdentifier": "cab.snapp.passenger",
+    "developerName": "RepoApps",
+    "version": "8.3.0",
+    "versionDate": "1403-11-06",
+    "versionDescription": "نسخه 8.3.0 برنامه اسنپ | Snapp در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/cab.snapp.passenger8.3.0.ipa",
+    "localizedDescription": "نسخه 8.3.0 برنامه اسنپ | Snapp در RepoApps",
+    "iconURL": "https://fs.sibapp.net/file/image/application/9f68880f2b2d4610b1cccf493d974f14.jpeg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 104432389,
+    "type": 1
+},
+    {
     "name": "Plants vs. Zombies™ 2 Hack",
     "bundleIdentifier": "com.popcap.ios.PvZ2",
     "developerName": "RepoApps",
