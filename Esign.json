@@ -19,6 +19,36 @@
         "type": 1
     },
     {
+        "name": "Captions++ | نسخه آنلاک کپشن",
+        "bundleIdentifier": "boomer.Smart-Video",
+        "developerName": "RepoApps",
+        "version": "12.2.1",
+        "versionDate": "1403-11-08",
+        "versionDescription": "12.2.1 نسخه Captions++ | نسخه آنلاک کپشن در RepoApps",
+        "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Captions12.2.1.ipa",
+        "localizedDescription": "12.2.1 نسخه Captions++ | نسخه آنلاک کپشن در RepoApps",
+        "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/0f/2b/db0f2b58-aa7f-5b97-9336-9b738dc8169f/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.jpg",
+        "tintColor": "018084",
+        "isLanZouCloud": 0,
+        "size": 157043921,
+        "type": 1
+    },
+    {
+        "name": "های بانک | Hibank",
+        "bundleIdentifier": "com.karafarin.ios",
+        "developerName": "RepoApps",
+        "version": "4.1",
+        "versionDate": "1403-11-08",
+        "versionDescription": "نسخه 4.1 های بانک | Hibank در RepoApps",
+        "downloadURL": "https://dl3.apptrackr.ir/ios/2025/hibank4.1.ipa",
+        "localizedDescription": "نسخه 4.1 های بانک | Hibank در RepoApps",
+        "iconURL": "https://fs.sibapp.net/file/image/application/be0409b9f38942a9b8e9c0ca11b7243e.png",
+        "tintColor": "018084",
+        "isLanZouCloud": 0,
+        "size": 54209513,
+        "type": 1
+    },
+    {
     "name": "همراه بانک تجارت |‌ Tejarat Mobile Bank",
     "bundleIdentifier": "com.ady.tejarat",
     "developerName": "RepoApps",
@@ -136,6 +166,21 @@
     "tintColor": "018084",
     "isLanZouCloud": 0,
     "size": 48475113,
+    "type": 1
+},
+{
+    "name": "Waze++ | مسیریاب ویز و ترافیک آنلاین",
+    "bundleIdentifier": "com.waze.iphone",
+    "developerName": "RepoApps",
+    "version": "5.3.0",
+    "versionDate": "1403-11-08",
+    "versionDescription": "نسخه 5.3.0 برنامه Waze++ | مسیریاب ویز و ترافیک آنلاین در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Waze5.3.0.ipa",
+    "localizedDescription": "نسخه 5.3.0 برنامه Waze++ | مسیریاب ویز و ترافیک آنلاین در RepoApps",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/be/13/dd/be13dd98-08bf-c06c-8467-071f50a90149/AppIcon-0-0-1x_U007epad-0-0-85-220.png/512x512bb.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 90715277,
     "type": 1
 },
 {
@@ -5164,21 +5209,6 @@
         "type": 1
     },
     {
-        "name": "Waze Navigation & Live Traffic++",
-        "bundleIdentifier": "com.waze.iphone",
-        "developerName": "RepoApps",
-        "version": "4.107.1",
-        "versionDate": "1403-06-13",
-        "versionDescription": "نسخه 4.107.1 Waze Navigation & Live Traffic++ در RepoApps",
-        "downloadURL": "https://s5.uupload.ir/files/ipafiledl98/WazePlus_4.107.1_Jacks_Apps.ipa",
-        "localizedDescription": "نسخه 4.107.1 Waze Navigation & Live Traffic++ در RepoApps",
-        "iconURL": "https://app.appleapps.ir/storage/2023/05/at-16835475821222-100x100.jpg",
-        "tintColor": "018084",
-        "isLanZouCloud": 0,
-        "size": 88619080,
-        "type": 1
-    },
-    {
         "name": "Learn 33 Languages with Mondly++",
         "bundleIdentifier": "com.atistudios.MondlyLanguages",
         "developerName": "RepoApps",
@@ -5746,21 +5776,6 @@
         "tintColor": "018084",
         "isLanZouCloud": 0,
         "size": 58247792,
-        "type": 1
-    },
-    {
-        "name": "Captions++ | نسخه آنلاک کپشن",
-        "bundleIdentifier": "boomer.Smart-Video",
-        "developerName": "RepoApps",
-        "version": "12.0.0",
-        "versionDate": "1403-10-27",
-        "versionDescription": "12.0.0 نسخه Captions++ | نسخه آنلاک کپشن در RepoApps",
-        "downloadURL": "https://dl3.apptrackr.ir/ios/2025/Captions12.0.0.ipa",
-        "localizedDescription": "12.0.0 نسخه Captions++ | نسخه آنلاک کپشن در RepoApps",
-        "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/db/0f/2b/db0f2b58-aa7f-5b97-9336-9b738dc8169f/AppIcon-0-0-1x_U007ephone-0-0-85-220.png/512x512bb.jpg",
-        "tintColor": "018084",
-        "isLanZouCloud": 0,
-        "size": 157043921,
         "type": 1
     },
     {
@@ -6796,21 +6811,6 @@
         "tintColor": "018084",
         "isLanZouCloud": 0,
         "size": 39575806,
-        "type": 1
-    },
-    {
-        "name": "های بانک | Hibank",
-        "bundleIdentifier": "com.karafarin.ios",
-        "developerName": "RepoApps",
-        "version": "4.0",
-        "versionDate": "1403-09-17",
-        "versionDescription": "نسخه 4.0 های بانک | Hibank در RepoApps",
-        "downloadURL": "https://dl3.apptrackr.ir/ios/2024/hibank4.0.ipa",
-        "localizedDescription": "نسخه 4.0 های بانک | Hibank در RepoApps",
-        "iconURL": "https://fs.sibapp.net/file/image/application/be0409b9f38942a9b8e9c0ca11b7243e.png",
-        "tintColor": "018084",
-        "isLanZouCloud": 0,
-        "size": 54209513,
         "type": 1
     },
     {
