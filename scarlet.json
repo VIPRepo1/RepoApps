@@ -3647,16 +3647,6 @@
             "appstore": "com.dopedevelopment.Panels"
         },
         {
-            "name": "Busuu Language Learning++ | آنلاک شده",
-            "version": "28.15.1",
-            "down": "https://dl3.apptrackr.ir/ios/2024/Busuu28.15.1.ipa",
-            "dev": "RepoApps",
-            "category": "برنامه ها",
-            "description": "این برنامه بصورت پیش فرض آنلاک میباشد.\n\nلاگین را با وارد کردن ایمیل و پسورد بصورت دستی انجام دهید\n*درصورت ارور آفلاین بودن هنگام لاگین, از برنامه تغییر iP معتبر استفاده کنید\n\n- بعد از هربار بسته شدن برنامه نیاز به لاگین مجدد دارید\n\n",
-            "bundleID": "com.busuu.english.app",
-            "appstore": "com.busuu.english.app"
-        },
-        {
             "name": "Phocus: Portrait Mode Camera++ | آنلاک شده",
             "version": "2.4.5",
             "down": "https://dl3.apptrackr.ir/ios/2024/Phocus2.4.5.ipa",
@@ -5678,16 +5668,6 @@
             "appstore": "io.fadel.VidCap"
         },
         {
-            "name": "Loora++ | نسخه آنلاک شده",
-            "version": "1.64.0",
-            "down": "https://dl3.apptrackr.ir/ios/2024/Loora1.64.0.ipa",
-            "dev": "RepoApps",
-            "category": "برنامه ها",
-            "description": "این نسخه بصورت پیش فرض آنلاک شده است فقط وارد حساب کاربری برنامه شوید. این برنامه دارای پشتیبانی از ترجمه زبان فارسی برای بهود و درک و یادگیری بهتر زبان های دیگر است.",
-            "bundleID": "ai.loora.Loora-iOS",
-            "appstore": "ai.loora.Loora-iOS"
-        },
-        {
             "name": "Documents ++ | فایل منیجر داکیومنت آنلاک شده",
             "version": "8.12.5",
             "down": "https://dl3.apptrackr.ir/ios/2024/Documents8.12.5.ipa",
@@ -6155,21 +6135,6 @@
                 "https://app.appleapps.ir/storage/2020/06/at-17059252781163-250x450.jpeg",
                 "https://app.appleapps.ir/storage/2020/06/at-17059252791446-250x450.jpeg",
                 "https://app.appleapps.ir/storage/2020/06/at-17059252801553-250x450.jpeg"
-            ]
-        },
-        {
-            "name": "همراه شهر پلاس | Hamrah Shahr Plus",
-            "version": "4.2.2",
-            "icon": "https://fs.sibapp.net/file/image/application/a455a16cabc341e584c97a8c413747e3.png",
-            "down": "https://dl3.apptrackr.ir/ios/2024/shahrplus4.2.2.ipa",
-            "dev": "RepoApps",
-            "category": "برنامه های ایرانی",
-            "description": "مشتریان محترم بانک شهر می توانند با استفاده از نسخه جدید موبایل بانک با عنوان همراه شهر پلاس از امکانات زیر بهره مند گردند:\n\nویژگی های همراه شهر پلاس برای iOS :\n\nخدمات سپرده: مشاهده موجودی سپرده، صورتحساب سپرده، انتقال وجه داخلی و بین بانکی ( پایا و ساتنا ) و دریافت شماره شبا، وضعیت سپرده و ....\n\nخدمات کارت: مشاهده مانده کارت، انتقال وجه کارت به کارت داخلی و شتابی، مشاهده گردش کارت، کمک به خیریه، مسدودی کارت و ...\n\nخدمات چک: انجام فرایند ثب",
-            "bundleID": "com.citydi.hplusapp",
-            "screenshots": [
-                "https://cdn.appleapps.ir/2022/07/at-16576295861799-250x450.jpeg",
-                "https://cdn.appleapps.ir/2022/07/at-16576295881096-250x450.jpeg",
-                "https://cdn.appleapps.ir/2022/07/at-16576295921803-250x450.jpeg"
             ]
         },
         {
