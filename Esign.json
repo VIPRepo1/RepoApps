@@ -94,7 +94,7 @@
         "type": 1
     },
     {
-        "name": "Intermittent Fasting++ | نسخه آنلاک شده",
+        "name": "Intermittent Fasting Tracker ⋆++",
         "bundleIdentifier": "com.leapfitness.fasting",
         "developerName": "RepoApps",
         "version": "1.9.8",
@@ -5356,21 +5356,6 @@
     "tintColor": "018084",
     "isLanZouCloud": 0,
     "size": 67082421,
-    "type": 1
-    },
-    {
-    "name": "Intermittent Fasting Tracker ⋆++",
-    "bundleIdentifier": "com.leapfitness.fasting",
-    "developerName": "RepoApps",
-    "version": "1.8.1",
-    "versionDate": "1403-06-16",
-    "versionDescription": "نسخه 1.8.1 برنامه Intermittent Fasting Tracker ⋆++ در RepoApps",
-    "downloadURL": "https://s5.uupload.ir/files/ipafiledl98/🅷🆆ـfasting_1.8.1.ipa",
-    "localizedDescription": "نسخه 1.8.1 برنامه Intermittent Fasting Tracker ⋆++ در RepoApps",
-    "iconURL": "https://app.appleapps.ir/storage/2023/10/at-16984897231799-100x100.jpg",
-    "tintColor": "018084",
-    "isLanZouCloud": 0,
-    "size": 143651140,
     "type": 1
     },
     {
