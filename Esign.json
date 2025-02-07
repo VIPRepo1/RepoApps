@@ -7669,21 +7669,6 @@
         "type": 1
     },
     {
-        "name": "Kino Pro Video Camera| دوربین فیلمبرداری حرفه ای",
-        "bundleIdentifier": "camera.lux.kino",
-        "developerName": "RepoApps",
-        "version": "1.2.1",
-        "versionDate": "1403-07-19",
-        "versionDescription": "نسخه 1.2.1 Kino Pro Video Camera| دوربین فیلمبرداری حرفه ای در RepoApps",
-        "downloadURL": "https://dl3.apptrackr.ir/ios/2024/KinoProVideoCamerav1.2.1.ipa",
-        "localizedDescription": "نسخه 1.2.1 Kino Pro Video Camera| دوربین فیلمبرداری حرفه ای در RepoApps",
-        "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple221/v4/ae/b7/05/aeb705d3-8377-7e07-e825-b3406788507e/AppIcon-0-1x_U007ephone-0-1-0-0-P3-85-220-0.png/512x512bb.jpg",
-        "tintColor": "018084",
-        "isLanZouCloud": 0,
-        "size": 25770808,
-        "type": 1
-    },
-    {
         "name": "Crossy Road Castle| اپل آرکید - قلعه بی پایان",
         "bundleIdentifier": "com.hipsterwhale.crossycastle",
         "developerName": "RepoApps",
