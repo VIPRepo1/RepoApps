@@ -19,6 +19,21 @@
         "type": 1
     },
     {
+    "name": "Leo's Fortune",
+    "bundleIdentifier": "com.leosfortune",
+    "developerName": "RepoApps",
+    "version": "1.0.14",
+    "versionDate": "1403-11-20",
+    "versionDescription": "نسخه 1.0.14 برنامه Leo's Fortune در RepoApps",
+    "downloadURL": "https://dl3.apptrackr.ir/ios/2022/LeosFortune-v1.0.14-appleapps.ir.ipa",
+    "localizedDescription": "نسخه 1.0.14 برنامه Leo's Fortune در RepoApps",
+    "iconURL": "https://is1-ssl.mzstatic.com/image/thumb/Purple112/v4/a2/8a/7f/a28a7ffe-40d3-506b-6217-44c62007bc95/AppIcon-1x_U007emarketing-3-85-220.png/512x512bb.jpg",
+    "tintColor": "018084",
+    "isLanZouCloud": 0,
+    "size": 606985086,
+    "type": 1
+    },
+    {
     "name": "Machinarium",
     "bundleIdentifier": "net.machinarium.Machinarium",
     "developerName": "RepoApps",
