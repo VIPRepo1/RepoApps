@@ -319,7 +319,7 @@
         "type": 1
     },
     {
-        "name": "Alight Motion ++ | نسخه آنلاک شده",
+        "name": "Alight Motion ++ | طراحی حرکت و جلوه های ویدئویی",
         "bundleIdentifier": "com.alightcreative.motion",
         "developerName": "RepoApps",
         "version": "6.2.13",
@@ -349,7 +349,7 @@
         "type": 1
     },
     {
-        "name": "Facetune++ | نسخه آنلاک شده",
+        "name": "Facetune++ | یکی از بهترین ویراشگرهای تصاویر",
         "bundleIdentifier": "com.lightricks.Facetune2",
         "developerName": "RepoApps",
         "version": "3.80",
@@ -364,7 +364,7 @@
         "type": 1
     },
     {
-        "name": "Lightroom Photo & Video Editor ++  | لایتروم پریمیوم",
+        "name": "Lightroom Photo & Video Editor ++ | لایتروم پریمیوم",
         "bundleIdentifier": "com.adobe.lrmobilephone",
         "developerName": "RepoApps",
         "version": "10.2.1",
@@ -439,7 +439,7 @@
         "type": 1
     },
     {
-        "name": "PicsArt ++‌ | نسخه انلاک پیکس آرت",
+        "name": "Picsart++|پیکس ارت مود شده",
         "bundleIdentifier": "com.picsart.studio",
         "developerName": "RepoApps",
         "version": "26.8.3",
@@ -469,7 +469,7 @@
         "type": 1
         },
         {
-        "name": "Pixelmator",
+        "name": "Pixelmator | ویرایش تصاویر و طراحی نقاشی های خلاقانه",
         "bundleIdentifier": "com.pixelmatorteam.pixelmator.touch",
         "developerName": "RepoApps",
         "version": "3.1.13",
@@ -589,7 +589,7 @@
         "type": 1
     },
     {
-        "name": "Adobe Fresco++ | نسخه آنلاک شده",
+        "name": "Adobe Fresco++ | ‎طراحی و نقاشی آثار هنری",
         "bundleIdentifier": "com.adobe.fresco.ios",
         "developerName": "RepoApps",
         "version": "6.1.4",
