@@ -1,0 +1,43 @@
+{
+    "META": {
+        "repoName": "RepoApps",
+        "repoIcon": "https://s9.uupload.ir/files/ipafiledl98/IMG_7073.jpeg"
+    },
+    "Apps": [
+        {
+            "name": "Exploding Kittens® 2",
+            "version": "0.0.10",
+            "icon": "https://is1-ssl.mzstatic.com/image/thumb/Purple211/v4/f3/7e/ee/f37eeea9-4095-52c9-d8e2-01b00fb66774/AppIcon-0-0-1x_U007emarketing-0-7-0-85-220.png/512x512bb.jpg",
+            "down": "https://dl3.apptrackr.ir/ios/2024/ExplodingKittens2v0.0.10.ipa",
+            "dev": "RepoApps",
+            "category": "بازی ها",
+            "description": "بازی Exploding Kittens 2 نسخه دوم از مجموعه بازی‌های گربه‌های بمب‌گذاری‌شده است که به‌طور ویژه برای پلتفرم‌های موبایل طراحی شده.",
+            "bundleID": "com.marmalade.explodingkittens",
+            "screenshots": [
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/cf/03/92/cf0392ae-adb6-8243-2bb6-c5dac4db4cf8/e9b6cea1-89bd-41e1-ad05-4caaf1c3ea0a_EK2_screenshots_mobile_Launch_2208x1242_06_eng.png/406x228bb.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/e7/f7/18/e7f718fa-c438-3252-4d90-536f892acc40/ee3341e6-20b9-4562-9b7f-34b90ac0b3e7_EK2_screenshots_mobile_Launch_2208x1242_05_eng.png/406x228bb.png",
+                "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/75/5a/75/755a751e-610f-8dbf-2f95-ec9cb2e46b02/fd28311e-d1eb-4101-a071-b2f3d53661e0_EK2_screenshots_mobile_Launch_2208x1242_04_eng.png/406x228bb.png"
+            ]
+        },
+        {
+      "name": "رایا | Raya",
+      "version": "3.0.0",
+      "icon": "https://cdn.appleapps.ir/2022/03/at-16475444741241-100x100.png",
+      "down": "https://dl2.apptrackr.ir/user1/ios/2022/rayaa-v3.0.0.ipa",
+      "dev": "RepoApps",
+      "category": "برنامه های ایرانی",
+      "description": "اپلیکیشن رایا توسط شهرداری تهران آماده سازی شده و توسط این اپ میتونید نقشه تهران رو به صورت افلاین داشته\n- نقشه‌ی آفلاین تهران با آخرین تغییرات معابر\n- مسیریاب سخنگو با امکان ارائه فرامین صوتی فارسی\n- امکان مشاهده‌ی نقشه در نمای پرسپکتیو (دید پرنده) و چرحش ۳۶۰ درجه نقشه\n- وضعیت ترافیک معابر اصلی بر روی نقشه\n- قابلیت جستجو آفلاین محلات، معابر و موقعیت‌ها\n- مشاهده‌ی فرصت‌ها و موقعیت‌های مکانی اطراف (near-by)\n- سرویس پیشنهاد مسیر حمل‌ونقل همگانی (اتوبوس، مترو و BRT)\n- سرویس مسیریابی تاکسی خطی\n- سرویس مسیریابی ویژه دوچرخه با دوچرخه‌ی شخصی یا دوچرخه همگانی\n- سرویس مسیریابی خودرو سواری با در نظر گرفتن وضعیت ترافیک معابر، طرح زوج و فرد و طرح ترافیک\n- ارایه موقعیت‌های مکانی کاربردی در حوزه‌ی حمل و نقل شهری نظیر منطقه‌ی طرح ترافیک، منطقه‌ی طرح زوج و فرد، جایگاه‌های سوخت‌رسانی و ...\n    ",
+      "bundleID": "org.rajman.neshan.traffic.tehran",
+      "screenshots": [
+"https://cdn.appleapps.ir/2022/03/at-16475446451714-250x450.png",
+"https://cdn.appleapps.ir/2022/03/at-16475446491486-250x450.png",
+"https://cdn.appleapps.ir/2022/03/at-16475446531544-250x450.png",
+"https://cdn.appleapps.ir/2022/03/at-16475446591184-250x450.png",
+"https://cdn.appleapps.ir/2022/03/at-16475446631557-250x450.png",
+"https://cdn.appleapps.ir/2022/03/at-16475446681138-250x450.png",
+"https://cdn.appleapps.ir/2022/03/at-16475446711870-250x450.jpeg",
+"https://cdn.appleapps.ir/2022/03/at-16475446751881-250x450.png",
+      ]
+    }
+  ]
+}
